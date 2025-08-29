@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 TIER B COMPANIES - APPLICATION LOG (Top 30 Priority)
+## 📊 TIER B COMPANIES - APPLICATION LOG (Sorted by Astro Fit ↓)
 
 | # | Company | Careers Page | Astro Fit | Industry | Region Focus | Application Sent | Status |
 |---|---------|--------------|-----------|----------|--------------|------------------|--------|

@@ -10,55 +10,55 @@
 
 ---
 
-## 📊 TIER S COMPANIES - APPLICATION LOG
+## 📊 TIER S COMPANIES - APPLICATION LOG (Sorted by Astro Fit ↓)
 
 | # | Company | Careers Page | Astro Fit | Industry | Confidence | Application Sent | Status |
 |---|---------|--------------|-----------|----------|------------|------------------|--------|
-| 1 | **Indeed** 🔥 | [Careers](https://www.indeed.com/cmp/Indeed/jobs) | 96% | Job Platform | High | | 📋 |
-| 2 | **SmartBear** 🔥 | [Careers](https://smartbear.com/company/careers/) | 92% | Dev Tools | High | | 📋 |
-| 3 | **Near Protocol** 🟡 | [Careers](https://careers.near.org/) | 98% | Blockchain/Web3 | Medium | | 📋 |
-| 4 | **Polygon** 🟡 | [Careers](https://polygon.technology/careers) | 98% | Blockchain/Web3 | Medium | | 📋 |
-| 5 | **Railway.app** 🟡 | [Careers](https://railway.app/careers) | 96% | Cloud/AI | Medium | | 📋 |
-| 6 | **Hugging Face** | [Careers](https://huggingface.co/jobs) | 96% | AI/ML | Unknown | | 📋 |
-| 7 | **Amplitude** | [Careers](https://amplitude.com/careers) | 96% | Analytics/Data | Unknown | | 📋 |
-| 8 | **dbt Labs** | [Careers](https://www.getdbt.com/careers/) | 96% | Data Tools | Unknown | | 📋 |
-| 9 | **Airbyte** | [Careers](https://airbyte.com/careers) | 96% | Data Integration | Unknown | | 📋 |
-| 10 | **ActiveCampaign** | [Careers](https://www.activecampaign.com/careers) | 96% | Marketing AI | Unknown | | 📋 |
-| 11 | **Buffer** | [Careers](https://buffer.com/journey) | 95% | Social Media | Unknown | | 📋 |
-| 12 | **Discourse** | [Careers](https://www.discourse.org/careers) | 95% | Communication | Unknown | | 📋 |
-| 13 | **ConvertKit** | [Careers](https://convertkit.com/careers) | 95% | Email Marketing | Unknown | | 📋 |
-| 14 | **Help Scout** | [Careers](https://www.helpscout.com/company/careers/) | 95% | Customer Service | Unknown | | 📋 |
-| 15 | **Basecamp** | [Careers](https://basecamp.com/about/jobs) | 95% | Project Mgmt | Unknown | | 📋 |
-| 16 | **Toggl** | [Careers](https://toggl.com/jobs/) | 95% | Time Tracking | Unknown | | 📋 |
-| 17 | **Zapier** | [Careers](https://zapier.com/jobs) | 95% | Automation | Unknown | | 📋 |
-| 18 | **Automattic** | [Careers](https://automattic.com/work-with-us/) | 95% | WordPress/CMS | Unknown | | 📋 |
-| 19 | **GitLab** | [Careers](https://about.gitlab.com/jobs/) | 92% | DevOps | Unknown | | 📋 |
-| 20 | **Docker** | [Careers](https://www.docker.com/careers) | 92% | Dev Tools | Unknown | | 📋 |
-| 21 | **Elastic** | [Careers](https://www.elastic.co/careers) | 92% | Search/Analytics | Unknown | | 📋 |
-| 22 | **Grafana Labs** | [Careers](https://grafana.com/about/careers/) | 92% | Observability | Unknown | | 📋 |
-| 23 | **Sourcegraph** | [Careers](https://about.sourcegraph.com/jobs) | 92% | Code Intelligence | Unknown | | 📋 |
-| 24 | **GitBook** | [Careers](https://jobs.gitbook.com/) | 92% | Documentation | Unknown | | 📋 |
-| 25 | **CodeSandbox** | [Careers](https://codesandbox.io/careers) | 92% | Dev Tools | Unknown | | 📋 |
-| 26 | **Fly.io** | [Careers](https://fly.io/jobs/) | 90% | Cloud Infrastructure | Unknown | | 📋 |
-| 27 | **Netlify** | [Careers](https://www.netlify.com/careers/) | 90% | JAMstack/Cloud | Unknown | | 📋 |
-| 28 | **Supabase** | [Careers](https://supabase.com/careers) | 90% | Backend-as-Service | Unknown | | 📋 |
-| 29 | **ClickUp** | [Careers](https://clickup.com/careers) | 88% | Productivity | Unknown | | 📋 |
-| 30 | **Coda** | [Careers](https://coda.io/careers) | 88% | Doc Platform | Unknown | | 📋 |
-| 31 | **Avalanche (Ava Labs)** | [Careers](https://www.avalabs.org/careers) | 98% | Blockchain | Unknown | | 📋 |
-| 32 | **Chainlink Labs** | [Careers](https://chainlinklabs.com/careers) | 98% | Blockchain/Oracle | Unknown | | 📋 |
-| 33 | **Cosmos** | [Careers](https://cosmos.network/careers) | 98% | Blockchain | Unknown | | 📋 |
-| 34 | **Gitcoin** | [Careers](https://gitcoin.co/careers) | 98% | Web3/Funding | Unknown | | 📋 |
-| 35 | **Polkadot** | [Careers](https://polkadot.network/careers/) | 98% | Blockchain | Unknown | | 📋 |
-| 36 | **Protocol Labs** | [Careers](https://protocol.ai/join/) | 98% | Web3 Infrastructure | Unknown | | 📋 |
-| 37 | **Solana Foundation** | [Careers](https://solana.com/careers) | 98% | Blockchain | Unknown | | 📋 |
-| 38 | **IOHK** | [Careers](https://iohk.io/careers/) | 98% | Blockchain | Unknown | | 📋 |
-| 39 | **Matter Labs** | [Careers](https://matterlabs.io/careers) | 98% | zkSync/Blockchain | Unknown | | 📋 |
-| 40 | **Iterative.ai** | [Careers](https://iterative.ai/careers) | 96% | MLOps | Unknown | | 📋 |
-| 41 | **BairesDev** | [Careers](https://www.bairesdev.com/careers/) | 96% | Dev Services | Unknown | | 📋 |
-| 42 | **Bonsai** | [Careers](https://www.hellobonsai.com/careers) | 96% | Business AI | Unknown | | 📋 |
-| 43 | **Brainstorm Force** | [Careers](https://brainstormforce.com/careers/) | 96% | WordPress Tools | Unknown | | 📋 |
-| 44 | **Chess.com** | [Careers](https://www.chess.com/jobs) | 95% | Gaming/Platform | Unknown | | 📋 |
-| 45 | **Doist** | [Careers](https://doist.com/careers) | 95% | Productivity | Unknown | | 📋 |
+| 1 | **Near Protocol** 🟡 | [Careers](https://careers.near.org/) | 98% | Blockchain/Web3 | Medium | | 📋 |
+| 2 | **Polygon** 🟡 | [Careers](https://polygon.technology/careers) | 98% | Blockchain/Web3 | Medium | | 📋 |
+| 3 | **Avalanche (Ava Labs)** | [Careers](https://www.avalabs.org/careers) | 98% | Blockchain | Unknown | | 📋 |
+| 4 | **Chainlink Labs** | [Careers](https://chainlinklabs.com/careers) | 98% | Blockchain/Oracle | Unknown | | 📋 |
+| 5 | **Cosmos** | [Careers](https://cosmos.network/careers) | 98% | Blockchain | Unknown | | 📋 |
+| 6 | **Gitcoin** | [Careers](https://gitcoin.co/careers) | 98% | Web3/Funding | Unknown | | 📋 |
+| 7 | **Polkadot** | [Careers](https://polkadot.network/careers/) | 98% | Blockchain | Unknown | | 📋 |
+| 8 | **Protocol Labs** | [Careers](https://protocol.ai/join/) | 98% | Web3 Infrastructure | Unknown | | 📋 |
+| 9 | **Solana Foundation** | [Careers](https://solana.com/careers) | 98% | Blockchain | Unknown | | 📋 |
+| 10 | **IOHK** | [Careers](https://iohk.io/careers/) | 98% | Blockchain | Unknown | | 📋 |
+| 11 | **Matter Labs** | [Careers](https://matterlabs.io/careers) | 98% | zkSync/Blockchain | Unknown | | 📋 |
+| 12 | **Indeed** 🔥 | [Careers](https://www.indeed.com/cmp/Indeed/jobs) | 96% | Job Platform | High | | 📋 |
+| 13 | **Railway.app** 🟡 | [Careers](https://railway.app/careers) | 96% | Cloud/AI | Medium | | 📋 |
+| 14 | **Hugging Face** | [Careers](https://huggingface.co/jobs) | 96% | AI/ML | Unknown | | 📋 |
+| 15 | **Amplitude** | [Careers](https://amplitude.com/careers) | 96% | Analytics/Data | Unknown | | 📋 |
+| 16 | **dbt Labs** | [Careers](https://www.getdbt.com/careers/) | 96% | Data Tools | Unknown | | 📋 |
+| 17 | **Airbyte** | [Careers](https://airbyte.com/careers) | 96% | Data Integration | Unknown | | 📋 |
+| 18 | **ActiveCampaign** | [Careers](https://www.activecampaign.com/careers) | 96% | Marketing AI | Unknown | | 📋 |
+| 19 | **Iterative.ai** | [Careers](https://iterative.ai/careers) | 96% | MLOps | Unknown | | 📋 |
+| 20 | **BairesDev** | [Careers](https://www.bairesdev.com/careers/) | 96% | Dev Services | Unknown | | 📋 |
+| 21 | **Bonsai** | [Careers](https://www.hellobonsai.com/careers) | 96% | Business AI | Unknown | | 📋 |
+| 22 | **Brainstorm Force** | [Careers](https://brainstormforce.com/careers/) | 96% | WordPress Tools | Unknown | | 📋 |
+| 23 | **Buffer** | [Careers](https://buffer.com/journey) | 95% | Social Media | Unknown | | 📋 |
+| 24 | **Discourse** | [Careers](https://www.discourse.org/careers) | 95% | Communication | Unknown | | 📋 |
+| 25 | **ConvertKit** | [Careers](https://convertkit.com/careers) | 95% | Email Marketing | Unknown | | 📋 |
+| 26 | **Help Scout** | [Careers](https://www.helpscout.com/company/careers/) | 95% | Customer Service | Unknown | | 📋 |
+| 27 | **Basecamp** | [Careers](https://basecamp.com/about/jobs) | 95% | Project Mgmt | Unknown | | 📋 |
+| 28 | **Toggl** | [Careers](https://toggl.com/jobs/) | 95% | Time Tracking | Unknown | | 📋 |
+| 29 | **Zapier** | [Careers](https://zapier.com/jobs) | 95% | Automation | Unknown | | 📋 |
+| 30 | **Automattic** | [Careers](https://automattic.com/work-with-us/) | 95% | WordPress/CMS | Unknown | | 📋 |
+| 31 | **Chess.com** | [Careers](https://www.chess.com/jobs) | 95% | Gaming/Platform | Unknown | | 📋 |
+| 32 | **Doist** | [Careers](https://doist.com/careers) | 95% | Productivity | Unknown | | 📋 |
+| 33 | **SmartBear** 🔥 | [Careers](https://smartbear.com/company/careers/) | 92% | Dev Tools | High | | 📋 |
+| 34 | **GitLab** | [Careers](https://about.gitlab.com/jobs/) | 92% | DevOps | Unknown | | 📋 |
+| 35 | **Docker** | [Careers](https://www.docker.com/careers) | 92% | Dev Tools | Unknown | | 📋 |
+| 36 | **Elastic** | [Careers](https://www.elastic.co/careers) | 92% | Search/Analytics | Unknown | | 📋 |
+| 37 | **Grafana Labs** | [Careers](https://grafana.com/about/careers/) | 92% | Observability | Unknown | | 📋 |
+| 38 | **Sourcegraph** | [Careers](https://about.sourcegraph.com/jobs) | 92% | Code Intelligence | Unknown | | 📋 |
+| 39 | **GitBook** | [Careers](https://jobs.gitbook.com/) | 92% | Documentation | Unknown | | 📋 |
+| 40 | **CodeSandbox** | [Careers](https://codesandbox.io/careers) | 92% | Dev Tools | Unknown | | 📋 |
+| 41 | **Fly.io** | [Careers](https://fly.io/jobs/) | 90% | Cloud Infrastructure | Unknown | | 📋 |
+| 42 | **Netlify** | [Careers](https://www.netlify.com/careers/) | 90% | JAMstack/Cloud | Unknown | | 📋 |
+| 43 | **Supabase** | [Careers](https://supabase.com/careers) | 90% | Backend-as-Service | Unknown | | 📋 |
+| 44 | **ClickUp** | [Careers](https://clickup.com/careers) | 88% | Productivity | Unknown | | 📋 |
+| 45 | **Coda** | [Careers](https://coda.io/careers) | 88% | Doc Platform | Unknown | | 📋 |
 | 46 | **LinkedIn** 🟡 | [Careers](https://careers.linkedin.com/) | 85% | Professional Network | Medium | | 📋 |
 
 ---

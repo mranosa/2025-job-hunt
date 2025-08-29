@@ -10,40 +10,40 @@
 
 ---
 
-## 📊 TIER A COMPANIES - APPLICATION LOG
+## 📊 TIER A COMPANIES - APPLICATION LOG (Sorted by Astro Fit ↓)
 
 | # | Company | Careers Page | Astro Fit | Industry | Confidence | Application Sent | Status |
 |---|---------|--------------|-----------|----------|------------|------------------|--------|
-| 1 | **DigitalOcean** 🟡 | [Careers](https://www.digitalocean.com/careers) | 90% | Cloud Platform | Medium | | 📋 |
-| 2 | **Aiven** 🟡 | [Careers](https://aiven.io/careers) | 90% | Managed Cloud | Medium | | 📋 |
-| 3 | **OVHcloud** 🟡 | [Careers](https://careers.ovhcloud.com/) | 90% | Cloud Provider | Medium | | 📋 |
-| 4 | **Adeva** 🟡 | [Careers](https://adevait.com/careers) | 87% | Tech Talent | Medium | | 📋 |
-| 5 | **Airflow (Astronomer)** 🟡 | [Careers](https://www.astronomer.io/careers) | 88% | Data Orchestration | Medium | | 📋 |
-| 6 | **Airwallex** 🟡 | [Careers](https://www.airwallex.com/careers) | 87% | FinTech | Medium | | 📋 |
-| 7 | **Apify** 🟡 | [Careers](https://apify.com/jobs) | 87% | Web Scraping | Medium | | 📋 |
-| 8 | **Braintree** 🟡 | [Careers](https://www.braintreepayments.com/careers) | 82% | Payments | Medium | | 📋 |
-| 9 | **Capital Placement** 🟡 | [Careers](https://www.capitalplacement.com/careers) | 85% | Financial Recruitment | Medium | | 📋 |
-| 10 | **DataArt** 🟡 | [Careers](https://www.dataart.com/careers) | 87% | Custom Software | Medium | | 📋 |
-| 11 | **Gremlin** 🟡 | [Careers](https://www.gremlin.com/careers) | 87% | Chaos Engineering | Medium | | 📋 |
-| 12 | **Nextcloud** 🟡 | [Careers](https://nextcloud.com/jobs/) | 87% | Self-hosted Cloud | Medium | | 📋 |
-| 13 | **Square Developer** 🟡 | [Careers](https://careers.squareup.com/) | 87% | Payment APIs | Medium | | 📋 |
-| 14 | **Unity** 🟡 | [Careers](https://careers.unity.com/) | 87% | Game Engine | Medium | | 📋 |
-| 15 | **Vonage APIs** 🟡 | [Careers](https://www.vonage.com/careers/) | 87% | Communication APIs | Medium | | 📋 |
-| 16 | **Yahoo** 🟡 | [Careers](https://www.yahooinc.com/careers) | 87% | Tech/Media | Medium | | 📋 |
-| 17 | **Cloudways** 🟡 | [Careers](https://www.cloudways.com/en/careers.php) | 90% | Managed Hosting | Medium | | 📋 |
-| 18 | **Railway** | [Careers](https://railway.app/careers) | 90% | Deployment Platform | Unknown | | 📋 |
-| 19 | **Render** | [Careers](https://render.com/careers) | 90% | Cloud Platform | Unknown | | 📋 |
-| 20 | **Teleport** | [Careers](https://goteleport.com/careers/) | 90% | Access Management | Unknown | | 📋 |
-| 21 | **Make (Integromat)** | [Careers](https://www.make.com/en/careers) | 88% | Automation | Unknown | | 📋 |
-| 22 | **Sentry** | [Careers](https://sentry.io/careers/) | 92% | Error Monitoring | Unknown | | 📋 |
-| 23 | **AWS** | [Careers](https://www.amazon.jobs/en/teams/amazon-web-services) | 90% | Cloud Services | Unknown | | 📋 |
-| 24 | **Airbnb** | [Careers](https://careers.airbnb.com/) | 85% | Travel Platform | Unknown | | 📋 |
-| 25 | **Akamai** | [Careers](https://www.akamai.com/careers) | 87% | CDN/Security | Unknown | | 📋 |
-| 26 | **Amazon** | [Careers](https://www.amazon.jobs/) | 85% | E-commerce/Cloud | Unknown | | 📋 |
-| 27 | **Binance** | [Careers](https://www.binance.com/en/careers) | 87% | Cryptocurrency | Unknown | | 📋 |
+| 1 | **Sentry** | [Careers](https://sentry.io/careers/) | 92% | Error Monitoring | Unknown | | 📋 |
+| 2 | **DigitalOcean** 🟡 | [Careers](https://www.digitalocean.com/careers) | 90% | Cloud Platform | Medium | | 📋 |
+| 3 | **Aiven** 🟡 | [Careers](https://aiven.io/careers) | 90% | Managed Cloud | Medium | | 📋 |
+| 4 | **OVHcloud** 🟡 | [Careers](https://careers.ovhcloud.com/) | 90% | Cloud Provider | Medium | | 📋 |
+| 5 | **Cloudways** 🟡 | [Careers](https://www.cloudways.com/en/careers.php) | 90% | Managed Hosting | Medium | | 📋 |
+| 6 | **Railway** | [Careers](https://railway.app/careers) | 90% | Deployment Platform | Unknown | | 📋 |
+| 7 | **Render** | [Careers](https://render.com/careers) | 90% | Cloud Platform | Unknown | | 📋 |
+| 8 | **Teleport** | [Careers](https://goteleport.com/careers/) | 90% | Access Management | Unknown | | 📋 |
+| 9 | **AWS** | [Careers](https://www.amazon.jobs/en/teams/amazon-web-services) | 90% | Cloud Services | Unknown | | 📋 |
+| 10 | **Airflow (Astronomer)** 🟡 | [Careers](https://www.astronomer.io/careers) | 88% | Data Orchestration | Medium | | 📋 |
+| 11 | **Make (Integromat)** | [Careers](https://www.make.com/en/careers) | 88% | Automation | Unknown | | 📋 |
+| 12 | **Adeva** 🟡 | [Careers](https://adevait.com/careers) | 87% | Tech Talent | Medium | | 📋 |
+| 13 | **Airwallex** 🟡 | [Careers](https://www.airwallex.com/careers) | 87% | FinTech | Medium | | 📋 |
+| 14 | **Apify** 🟡 | [Careers](https://apify.com/jobs) | 87% | Web Scraping | Medium | | 📋 |
+| 15 | **DataArt** 🟡 | [Careers](https://www.dataart.com/careers) | 87% | Custom Software | Medium | | 📋 |
+| 16 | **Gremlin** 🟡 | [Careers](https://www.gremlin.com/careers) | 87% | Chaos Engineering | Medium | | 📋 |
+| 17 | **Nextcloud** 🟡 | [Careers](https://nextcloud.com/jobs/) | 87% | Self-hosted Cloud | Medium | | 📋 |
+| 18 | **Square Developer** 🟡 | [Careers](https://careers.squareup.com/) | 87% | Payment APIs | Medium | | 📋 |
+| 19 | **Unity** 🟡 | [Careers](https://careers.unity.com/) | 87% | Game Engine | Medium | | 📋 |
+| 20 | **Vonage APIs** 🟡 | [Careers](https://www.vonage.com/careers/) | 87% | Communication APIs | Medium | | 📋 |
+| 21 | **Yahoo** 🟡 | [Careers](https://www.yahooinc.com/careers) | 87% | Tech/Media | Medium | | 📋 |
+| 22 | **Akamai** | [Careers](https://www.akamai.com/careers) | 87% | CDN/Security | Unknown | | 📋 |
+| 23 | **Binance** | [Careers](https://www.binance.com/en/careers) | 87% | Cryptocurrency | Unknown | | 📋 |
+| 24 | **Chef** | [Careers](https://www.chef.io/careers) | 87% | Infrastructure Automation | Unknown | | 📋 |
+| 25 | **Capital Placement** 🟡 | [Careers](https://www.capitalplacement.com/careers) | 85% | Financial Recruitment | Medium | | 📋 |
+| 26 | **Airbnb** | [Careers](https://careers.airbnb.com/) | 85% | Travel Platform | Unknown | | 📋 |
+| 27 | **Amazon** | [Careers](https://www.amazon.jobs/) | 85% | E-commerce/Cloud | Unknown | | 📋 |
 | 28 | **Canva** | [Careers](https://www.canva.com/careers/) | 85% | Design Platform | Unknown | | 📋 |
 | 29 | **Celigo** | [Careers](https://www.celigo.com/company/careers/) | 85% | Integration Platform | Unknown | | 📋 |
-| 30 | **Chef** | [Careers](https://www.chef.io/careers) | 87% | Infrastructure Automation | Unknown | | 📋 |
+| 30 | **Braintree** 🟡 | [Careers](https://www.braintreepayments.com/careers) | 82% | Payments | Medium | | 📋 |
 
 ---
 
