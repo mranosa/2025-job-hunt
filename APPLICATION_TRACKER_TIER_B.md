@@ -14,18 +14,15 @@
 
 | # | Company | Careers Page | Astro Fit | Industry | Region Focus | Application Sent | Status |
 |---|---------|--------------|-----------|----------|--------------|------------------|--------|
-| **FinTech & Payments** |
 | 1 | **PayMongo** | [Careers](https://paymongo.com/careers) | 82% | Payments | Philippines | | 📋 |
 | 2 | **Xendit** | [Careers](https://www.xendit.co/en/careers/) | 82% | Payments | Southeast Asia | | 📋 |
 | 3 | **Wise** | [Careers](https://www.wise.jobs/) | 82% | Money Transfer | Global | | 📋 |
 | 4 | **Payoneer** | [Careers](https://www.payoneer.com/careers/) | 82% | Cross-border Payments | Global | | 📋 |
-| **Security & Monitoring** |
 | 5 | **CrowdStrike** | [Careers](https://www.crowdstrike.com/careers/) | 80% | Cybersecurity | Global | | 📋 |
 | 6 | **Rapid7** | [Careers](https://www.rapid7.com/careers/) | 80% | Security Solutions | Global | | 📋 |
 | 7 | **Cofense** | [Careers](https://cofense.com/company/careers/) | 80% | Phishing Defense | Global | | 📋 |
 | 8 | **Teleport Security** | [Careers](https://goteleport.com/careers/) | 80% | Infrastructure Access | Global | | 📋 |
 | 9 | **GitGuardian** | [Careers](https://www.gitguardian.com/careers) | 80% | Code Security | Global | | 📋 |
-| **Remote Work Platforms** |
 | 10 | **Deel** | [Careers](https://www.deel.com/careers) | 78% | Global Payroll | Global | | 📋 |
 | 11 | **Oyster** | [Careers](https://www.oysterhr.com/careers) | 78% | Distributed Teams | Global | | 📋 |
 | 12 | **Remote.com** | [Careers](https://remote.com/careers) | 78% | Global Employment | Global | | 📋 |
@@ -34,18 +31,15 @@
 | 15 | **Crossover** | [Careers](https://www.crossover.com/jobs) | 78% | Remote Tech Roles | Global | | 📋 |
 | 16 | **X-Team** | [Careers](https://x-team.com/join/) | 78% | Developer Community | Global | | 📋 |
 | 17 | **Andela** | [Careers](https://andela.com/careers/) | 78% | Tech Talent | Global | | 📋 |
-| **DevOps & Infrastructure** |
 | 18 | **SemaphoreCI** | [Careers](https://semaphoreci.com/careers) | 78% | CI/CD | Global | | 📋 |
 | 19 | **Travis CI** | [Careers](https://www.travis-ci.com/careers/) | 78% | CI/CD | Global | | 📋 |
 | 20 | **Buildkite** | [Careers](https://buildkite.com/careers) | 78% | Build Automation | Global | | 📋 |
 | 21 | **Coder** | [Careers](https://coder.com/careers) | 78% | Cloud Dev Environments | Global | | 📋 |
 | 22 | **Balena** | [Careers](https://www.balena.io/careers/) | 78% | IoT Fleet Management | Global | | 📋 |
-| **Open Source & Foundations** |
 | 23 | **Canonical** | [Careers](https://canonical.com/careers) | 77% | Ubuntu Linux | Global | | 📋 |
 | 24 | **Mozilla Foundation** | [Careers](https://careers.mozilla.org/) | 77% | Firefox/Web Standards | Global | | 📋 |
 | 25 | **Linux Foundation** | [Careers](https://www.linuxfoundation.org/careers) | 77% | Open Source | Global | | 📋 |
 | 26 | **Eclipse Foundation** | [Careers](https://www.eclipse.org/org/foundation/jobs.php) | 77% | IDE/Dev Tools | Global | | 📋 |
-| **Analytics & Data** |
 | 27 | **ChartMogul** | [Careers](https://chartmogul.com/jobs/) | 76% | Subscription Analytics | Global | | 📋 |
 | 28 | **Heap** | [Careers](https://heap.io/careers) | 76% | Product Analytics | Global | | 📋 |
 | 29 | **Netdata** | [Careers](https://www.netdata.cloud/careers/) | 76% | Infrastructure Monitoring | Global | | 📋 |
