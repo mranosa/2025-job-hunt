@@ -18,6 +18,7 @@
 ---
 
 ## 📊 MASTER APPLICATION TRACKER & CHECKLIST
+*Organized by Optimal Philippine Time Slots*
 
 ### **🏆 TIER S - PERFECT ASTRO FIT (98-100%)**
 
@@ -25,13 +26,13 @@
 |---------|----------|--------------|------------|----------|-----------|----------------|--------|--------|
 | **Perfect** | [Lead Software Engineer](https://wellfound.com/jobs/3395185-lead-software-engineer) | $25K-$49K | JavaScript, Go, AI | Remote Worldwide | 98% | 🗓️ Thu 1-3AM PHT | ⏳ Ready | - |
 | **Automattic** | [WordPress Developer](https://automattic.com/careers/) | $70K-$130K | PHP, JavaScript, React | Remote Worldwide | 98% | 🗓️ Thu 7-9AM PHT | ⏳ Ready | - |
-| **CryptoAsia Exchange** | [Blockchain Developer](https://cryptoasia.example/careers) | $6K-$9K USD | Solidity, Node.js | Remote SEA | 98% | ☀️ ☀️ Sun 9-11AM PHT | ⏳ Ready | - |
+| **CryptoAsia Exchange** | [Blockchain Developer](https://cryptoasia.example/careers) | $6K-$9K USD | Solidity, Node.js | Remote SEA | 98% | ☀️ Sun 9-11AM PHT | ⏳ Ready | - |
 
 ### **🥇 TIER A+ - EXCEPTIONAL FIT (95-97%)**
 
 | Company | Position | Salary Range | Tech Stack | Location | Astro Fit | Best Apply Time | Status | Result |
 |---------|----------|--------------|------------|----------|-----------|----------------|--------|--------|
-| **LearnAsia Tech** | [AI Engineer](https://learnasia.example/jobs) | $3.5K-$5K | Python, TensorFlow | Remote APAC | 96% | 🗓️ 🗓️ Thu 9-11AM PHT | ⏳ Ready | - |
+| **LearnAsia Tech** | [AI Engineer](https://learnasia.example/jobs) | $3.5K-$5K | Python, TensorFlow | Remote APAC | 96% | 🗓️ Thu 9-11AM PHT | ⏳ Ready | - |
 | **Beautiful.ai** | [Software Engineer](https://wellfound.com/jobs/beautiful-ai-software-engineer) | $120K-$160K | JavaScript, Python, AI | Remote Worldwide | 96% | 🗓️ Thu 7-9AM PHT | ⏳ Ready | - |
 | **Vercel** | [Frontend Engineer](https://vercel.com/careers) | $120K-$180K | TypeScript, Next.js | Remote Global | 96% | ☀️ Sun 7-9AM PHT | ⏳ Ready | - |
 | **Sticker Mule** | [Software Engineer](https://jobs.ashbyhq.com/stickermule/) | $145K | Go, TypeScript | Remote Worldwide | 95% | 🗓️ Thu 10-12PM PHT | ⏳ Ready | - |
@@ -48,7 +49,7 @@
 | **Wikimedia Foundation** | [Staff SRE](https://wikimediafoundation.org/careers/) | $113K-$176K | PHP, JavaScript, Python | Remote Worldwide | 94% | 🗓️ Thu 11PM-1AM PHT | ⏳ Ready | - |
 | **ForgeCode** | [Staff Engineer](https://forgecode.com/careers) | Equity + competitive | Rust, JavaScript | Remote Worldwide | 94% | ☀️ Sun 10-12PM PHT | ⏳ Ready | - |
 | **Lemon.io** | [Senior .NET Full-stack](https://lemon.io/for-developers/) | Not specified | .NET, Vue.js, React | Remote Worldwide | 93% | 🗓️ Thu 5-7PM PHT | ⏳ Ready | - |
-| **Stripe** | [Software Engineer](https://stripe.com/jobs) | $120K-$200K | JavaScript, Ruby, Python | Remote Asia | 93% | ☀️ ☀️ Sun 9-11AM PHT | ⏳ Ready | - |
+| **Stripe** | [Software Engineer](https://stripe.com/jobs) | $120K-$200K | JavaScript, Ruby, Python | Remote Asia | 93% | ☀️ Sun 9-11AM PHT | ⏳ Ready | - |
 | **Toptal** | [Senior Back-end Engineer](https://toptal.com/careers) | Premium rates | Python, Java, Node.js | Remote Worldwide | 93% | 🗓️ Thu 11PM-1AM PHT | ⏳ Ready | - |
 | **Y Combinator Network** | [Software Engineer](https://www.ycombinator.com/jobs) | $80K-$200K | Varies by company | Remote Worldwide | 93% | 🗓️ Thu 1-3AM PHT | ⏳ Ready | - |
 | **GitLab** | [Backend Engineer](https://about.gitlab.com/jobs/) | $80K-$180K | Ruby, Go, PostgreSQL | Remote Worldwide | 92% | 🗓️ Thu 5-7PM PHT | ⏳ Ready | - |
@@ -64,7 +65,7 @@
 |---------|----------|--------------|------------|----------|-----------|----------------|--------|--------|
 | **Lemon.io** | [Senior Developer](https://lemon.io/for-developers/) | Competitive rates | Multiple technologies | Remote Philippines | 90% | 🗓️ Thu 9-11AM PHT | ⏳ Ready | - |
 | **CashJar.com** | [Senior QA Engineer](https://linkedin.com/jobs/cashjar-senior-qa) | Not specified | Java, Selenium | Remote Philippines | 90% | ☀️ Sun 9-11AM PHT | ⏳ Ready | - |
-| **Cloudflare** | [Site Reliability Engineer](https://www.cloudflare.com/careers/jobs/) | $100K-$160K | Go, Kubernetes | Remote APAC | 90% | 🗓️ 🗓️ Thu 3-5PM PHT | ⏳ Ready | - |
+| **Cloudflare** | [Site Reliability Engineer](https://www.cloudflare.com/careers/jobs/) | $100K-$160K | Go, Kubernetes | Remote APAC | 90% | 🗓️ Thu 3-5PM PHT | ⏳ Ready | - |
 | **Coinbase** | [Software Engineer](https://www.coinbase.com/careers/positions) | $110K-$190K | JavaScript, Java, Go | Remote Worldwide | 90% | ☀️ Sun 1-3AM PHT | ⏳ Ready | - |
 | **Uncap** | [Senior Full-Stack Engineer](https://weworkremotely.com/remote-jobs/uncap-senior-full-stack-engineer) | $100K+ | JavaScript, Python | Remote Worldwide | 90% | 🗓️ Thu 10-12PM PHT | ⏳ Ready | - |
 | **Flagler Health** | [Software Engineer](https://flaglerhealth.com/careers) | $120K-$160K | Multiple technologies | Remote Worldwide | 90% | ☀️ Sun 4-6AM PHT | ⏳ Ready | - |
@@ -99,7 +100,7 @@
 | **Near Protocol** | [Careers Page](https://careers.near.org) | Blockchain/Rust | 85% | ☀️ Sun 5-7PM PHT | ⏳ Ready |
 | **Polygon** | [Careers Page](https://polygon.technology/careers) | Blockchain/Solidity | 88% | 🗓️ Thu 5-7PM PHT | ⏳ Ready |
 | **Railway.app** | [Careers Page](https://railway.app/careers) | Cloud/TypeScript | 90% | ☀️ Sun 4-6AM PHT | ⏳ Ready |
-| **Docker** | [Careers Page](https://www.docker.com/careers/) | Containers/Go | 92% | 🗓️ 🗓️ Thu 9-11AM PHT | ⏳ Ready |
+| **Docker** | [Careers Page](https://www.docker.com/careers/) | Containers/Go | 92% | 🗓️ Thu 9-11AM PHT | ⏳ Ready |
 | **Elastic** | [Careers Page](https://www.elastic.co/careers) | Search/Java | 85% | ☀️ Sun 5-7PM PHT | ⏳ Ready |
 | **Chainlink Labs** | [Careers Page](https://chainlinklabs.com/careers) | Blockchain/Solidity | 95% | 🗓️ Thu 4-6AM PHT | ⏳ Ready |
 | **Solana Labs** | [Careers Page](https://jobs.solana.com/jobs) | Blockchain/Rust | 92% | ☀️ Sun 1-3AM PHT | ⏳ Ready |
@@ -166,23 +167,23 @@
 
 1. **Chainlink Labs** (95%) - 🗓️ Thu 4-6AM PHT - Location agnostic
 2. **Solana Labs** (92%) - ☀️ Sun 1-3AM PHT - High-performance blockchain
-3. **CryptoAsia Exchange** (98%) - ☀️ ☀️ Sun 9-11AM PHT - SEA focus
+3. **CryptoAsia Exchange** (98%) - ☀️ Sun 9-11AM PHT - SEA focus
 4. **Near Protocol** (85%) - ☀️ Sun 5-7PM PHT - Web3 platform
 5. **Polygon** (88%) - 🗓️ Thu 5-7PM PHT - Scaling solutions
 6. **Y Combinator Network** (93%) - 🗓️ Thu 1-3AM PHT - Startup ecosystem
-7. **Stripe** (93%) - ☀️ ☀️ Sun 9-11AM PHT - FinTech leader Asia
+7. **Stripe** (93%) - ☀️ Sun 9-11AM PHT - FinTech leader Asia
 8. **Coinbase** (90%) - ☀️ Sun 1-3AM PHT - Crypto exchange leader
 
 ### **Phase 4: Developer Tools/Infrastructure (Week 4) - 10 Applications**
 **Target: Technical Infrastructure Companies**
 
 1. **GitLab** (92%) - 🗓️ Thu 5-7PM PHT - All-remote pioneer
-2. **Docker** (92%) - 🗓️ 🗓️ Thu 9-11AM PHT - Container leader APAC
+2. **Docker** (92%) - 🗓️ Thu 9-11AM PHT - Container leader APAC
 3. **Elastic** (85%) - ☀️ Sun 5-7PM PHT - Search/analytics
 4. **Shopify** (92%) - ☀️ Sun 4-6AM PHT - E-commerce platform
 5. **Railway.app** (90%) - ☀️ Sun 4-6AM PHT - Modern deployment
 6. **Toptal** (93%) - 🗓️ Thu 11PM-1AM PHT - Premium developer network
-7. **Cloudflare** (90%) - 🗓️ 🗓️ Thu 3-5PM PHT - Edge computing APAC
+7. **Cloudflare** (90%) - 🗓️ Thu 3-5PM PHT - Edge computing APAC
 8. **TechStars Network** (92%) - ☀️ Sun 10-12PM PHT - Startup accelerator
 9. **Stack Overflow** (88%) - 🗓️ Thu 10-12PM PHT - Developer platform
 10. **GitHub** (verified) - 🗓️ Thu 1-3AM PHT - Developer platform leader
