@@ -28,32 +28,32 @@
 | **Notion** | [Full-stack Engineer](https://www.notion.so/careers) | $130K-$200K | TypeScript, React | A | 94% | 🗓️ 1-3AM PHT | ⏳ Ready | - |
 | **Y Combinator Network** | [Software Engineer](https://www.ycombinator.com/jobs) | $80K-$200K | Varies by company | A | 93% | 🗓️ 1-3AM PHT | ⏳ Ready | - |
 | **GeekWire** | [Startup Engineer](https://geekwire.com/jobs) | $80K-$170K | Multiple technologies | B+ | 90% | 🗓️ 1-3AM PHT | ⏳ Ready | - |
-| **Indeed** | [Careers Page](https://www.indeed.com/career) | Platform/Jobs | PH | 94% | 🗓️ 1-3AM PHT | ⏳ Ready | - |
-| **Chainlink Labs** | [Careers Page](https://chainlinklabs.com/careers) | Blockchain/Solidity | WW | 95% | 🗓️ 4-6AM PHT | ⏳ Ready | - |
+| **Indeed** | [Careers Page](https://www.indeed.com/career) | - | PH | 94% | 🗓️ 1-3AM PHT | ⏳ Ready | - |
+| **Chainlink Labs** | [Careers Page](https://chainlinklabs.com/careers) | - | WW | 95% | 🗓️ 4-6AM PHT | ⏳ Ready | - |
 | **pubGENIUS** | [Senior Software Engineer](https://wellfound.com/jobs/3384145-senior-software-engineer) | $50K-$80K | JavaScript, Node.js | B+ | 88% | 🗓️ 4-6AM PHT | ⏳ Ready | - |
 | **Automattic** | [WordPress Developer](https://automattic.com/careers/) | $70K-$130K | PHP, JavaScript, React | S | 98% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
 | **Beautiful.ai** | [Software Engineer](https://wellfound.com/jobs/beautiful-ai-software-engineer) | $120K-$160K | JavaScript, Python, AI | A+ | 96% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
 | **Buffer** | [Software Engineer](https://buffer.com/journey/) | $90K-$150K | React, Node.js | A+ | 95% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
 | **Filmbot** | [Senior Full-Stack Developer](https://weworkremotely.com/remote-jobs/filmbot-senior-full-stack-developer-wordpress-react-aws) | $100K+ | WordPress, React, AWS | A | 92% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
-| **Zapier** | [Careers Page](https://zapier.com/jobs) | Automation | PH | 88% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
+| **Zapier** | [Careers Page](https://zapier.com/jobs) | - | PH | 88% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
 | **LearnAsia Tech** | [AI Engineer](https://learnasia.example/jobs) | $3.5K-$5K | Python, TensorFlow | A+ | 96% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
 | **Workstream** | [Senior Software Engineer](https://wellfound.com/jobs/workstream-senior-engineer) | $360K-$370K | JavaScript, Python | A+ | 95% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
-| **Canva** | [Data Engineer](https://lifeatcanva.com/en/locations/philippines/) | Local market + benefits | Python, SQL, AWS | A | 92% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
-| **Lemon.io** | [Senior Developer](https://lemon.io/for-developers/) | Competitive rates | Multiple technologies | B+ | 90% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
+| **Canva** | [Data Engineer](https://lifeatcanva.com/en/locations/philippines/) | - | Python, SQL, AWS | A | 92% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
+| **Lemon.io** | [Senior Developer](https://lemon.io/for-developers/) | - | Multiple technologies | B+ | 90% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
 | **Tala** | [Backend Engineer](https://tala.co/careers/) | $45K-$75K | Python, Django | B+ | 88% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
-| **Docker** | [Careers Page](https://www.docker.com/careers/) | Containers/Go | WW | 92% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
+| **Docker** | [Careers Page](https://www.docker.com/careers/) | - | WW | 92% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
 | **Sticker Mule** | [Software Engineer](https://jobs.ashbyhq.com/stickermule/) | $145K | Go, TypeScript | A+ | 95% | 🗓️ 10-12PM PHT | ⏳ Ready | - |
 | **Uncap** | [Senior Full-Stack Engineer](https://weworkremotely.com/remote-jobs/uncap-senior-full-stack-engineer) | $100K+ | JavaScript, Python | B+ | 90% | 🗓️ 10-12PM PHT | ⏳ Ready | - |
 | **Pilot.co** | [Software Engineer](https://pilot.co/careers) | $100K-$160K | JavaScript, React, Node.js | B+ | 89% | 🗓️ 10-12PM PHT | ⏳ Ready | - |
 | **Stack Overflow** | [Software Developer](https://stackoverflow.com/jobs) | $70K-$160K | Multiple technologies | B+ | 88% | 🗓️ 10-12PM PHT | ⏳ Ready | - |
-| **Hopper** | [Account Director Commerce](https://linkedin.com/jobs/hopper-account-director) | Not specified | JavaScript, Python | A | 92% | 🗓️ 3-5PM PHT | ⏳ Ready | - |
+| **Hopper** | [Account Director Commerce](https://linkedin.com/jobs/hopper-account-director) | - | JavaScript, Python | A | 92% | 🗓️ 3-5PM PHT | ⏳ Ready | - |
 | **Cloudflare** | [Site Reliability Engineer](https://www.cloudflare.com/careers/jobs/) | $100K-$160K | Go, Kubernetes | B+ | 90% | 🗓️ 3-5PM PHT | ⏳ Ready | - |
 | **Atlassian** | [Software Engineer](https://www.atlassian.com/careers) | $70K-$140K | Java, Python, React | B+ | 88% | 🗓️ 3-5PM PHT | ⏳ Ready | - |
-| **Lemon.io** | [Senior .NET Full-stack](https://lemon.io/for-developers/) | Not specified | .NET, Vue.js, React | A | 93% | 🗓️ 5-7PM PHT | ⏳ Ready | - |
+| **Lemon.io** | [Senior .NET Full-stack](https://lemon.io/for-developers/) | - | .NET, Vue.js, React | A | 93% | 🗓️ 5-7PM PHT | ⏳ Ready | - |
 | **GitLab** | [Backend Engineer](https://about.gitlab.com/jobs/) | $80K-$180K | Ruby, Go, PostgreSQL | A | 92% | 🗓️ 5-7PM PHT | ⏳ Ready | - |
-| **Polygon** | [Careers Page](https://polygon.technology/careers) | Blockchain/Solidity | WW | 88% | 🗓️ 5-7PM PHT | ⏳ Ready | - |
+| **Polygon** | [Careers Page](https://polygon.technology/careers) | - | WW | 88% | 🗓️ 5-7PM PHT | ⏳ Ready | - |
 | **Wikimedia Foundation** | [Staff SRE](https://wikimediafoundation.org/careers/) | $113K-$176K | PHP, JavaScript, Python | A | 94% | 🗓️ 11PM-1AM PHT | ⏳ Ready | - |
-| **Toptal** | [Senior Back-end Engineer](https://toptal.com/careers) | Premium rates | Python, Java, Node.js | A | 93% | 🗓️ 11PM-1AM PHT | ⏳ Ready | - |
+| **Toptal** | [Senior Back-end Engineer](https://toptal.com/careers) | - | Python, Java, Node.js | A | 93% | 🗓️ 11PM-1AM PHT | ⏳ Ready | - |
 
 ### **☀️ SUNDAY APPLICATIONS** - *Solar Leadership Day*
 
@@ -61,24 +61,24 @@
 |---------|----------|--------------|------------|------|-----------|------------|--------|--------|
 | **Discord** | [Backend Engineer](https://discord.com/careers) | $130K-$200K | Elixir, Python | A+ | 95% | ☀️ 1-3AM PHT | ⏳ Ready | - |
 | **Coinbase** | [Software Engineer](https://www.coinbase.com/careers/positions) | $110K-$190K | JavaScript, Java, Go | B+ | 90% | ☀️ 1-3AM PHT | ⏳ Ready | - |
-| **Solana Labs** | [Careers Page](https://jobs.solana.com/jobs) | Blockchain/Rust | WW | 92% | ☀️ 1-3AM PHT | ⏳ Ready | - |
+| **Solana Labs** | [Careers Page](https://jobs.solana.com/jobs) | - | WW | 92% | ☀️ 1-3AM PHT | ⏳ Ready | - |
 | **Shopify** | [Full-stack Developer](https://www.shopify.com/careers) | $95K-$170K | Ruby, JavaScript | A | 92% | ☀️ 4-6AM PHT | ⏳ Ready | - |
 | **Flagler Health** | [Software Engineer](https://flaglerhealth.com/careers) | $120K-$160K | Multiple technologies | B+ | 90% | ☀️ 4-6AM PHT | ⏳ Ready | - |
-| **Railway.app** | [Careers Page](https://railway.app/careers) | Cloud/TypeScript | WW | 90% | ☀️ 4-6AM PHT | ⏳ Ready | - |
-| **Zencastr** | [Senior Fullstack Developer](https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer) | Not specified | JavaScript, Node.js | B+ | 88% | ☀️ 4-6AM PHT | ⏳ Ready | - |
+| **Railway.app** | [Careers Page](https://railway.app/careers) | - | WW | 90% | ☀️ 4-6AM PHT | ⏳ Ready | - |
+| **Zencastr** | [Senior Fullstack Developer](https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer) | - | JavaScript, Node.js | B+ | 88% | ☀️ 4-6AM PHT | ⏳ Ready | - |
 | **ChartMogul** | [Ruby/Rails Engineer](https://chartmogul.com/careers/) | €60K-€90K | Ruby, Rails, JavaScript | B+ | 88% | ☀️ 4-6PM PHT | ⏳ Ready | - |
 | **Vercel** | [Frontend Engineer](https://vercel.com/careers) | $120K-$180K | TypeScript, Next.js | A+ | 96% | ☀️ 7-9AM PHT | ⏳ Ready | - |
 | **Figma** | [Product Engineer](https://www.figma.com/careers/) | $140K-$220K | TypeScript, React | A | 94% | ☀️ 7-9AM PHT | ⏳ Ready | - |
 | **CryptoAsia Exchange** | [Blockchain Developer](https://cryptoasia.example/careers) | $6K-$9K USD | Solidity, Node.js | S | 98% | ☀️ 9-11AM PHT | ⏳ Ready | - |
 | **Stripe** | [Software Engineer](https://stripe.com/jobs) | $120K-$200K | JavaScript, Ruby, Python | A | 93% | ☀️ 9-11AM PHT | ⏳ Ready | - |
-| **CashJar.com** | [Senior QA Engineer](https://linkedin.com/jobs/cashjar-senior-qa) | Not specified | Java, Selenium | B+ | 90% | ☀️ 9-11AM PHT | ⏳ Ready | - |
+| **CashJar.com** | [Senior QA Engineer](https://linkedin.com/jobs/cashjar-senior-qa) | - | Java, Selenium | B+ | 90% | ☀️ 9-11AM PHT | ⏳ Ready | - |
 | **CodementorX** | [Senior Developer](https://codementorx.com/jobs) | $40-$120/hour | Multiple technologies | B+ | 88% | ☀️ 9-11AM PHT | ⏳ Ready | - |
-| **ForgeCode** | [Staff Engineer](https://forgecode.com/careers) | Equity + competitive | Rust, JavaScript | A | 94% | ☀️ 10-12PM PHT | ⏳ Ready | - |
+| **ForgeCode** | [Staff Engineer](https://forgecode.com/careers) | - | Rust, JavaScript | A | 94% | ☀️ 10-12PM PHT | ⏳ Ready | - |
 | **TechStars Network** | [Software Engineer](https://techstars.com/jobs) | $70K-$180K | JavaScript, Python, Go | A | 92% | ☀️ 10-12PM PHT | ⏳ Ready | - |
-| **SmartBear** | [Careers Page](https://smartbear.com/company/careers/) | Testing Tools | PH | 90% | ☀️ 10-12PM PHT | ⏳ Ready | - |
-| **Theoria Medical** | [Senior Product Manager](https://linkedin.com/jobs/theoria-medical-senior-pm) | Not specified | Python, Healthcare APIs | B+ | 88% | ☀️ 3-5PM PHT | ⏳ Ready | - |
-| **Near Protocol** | [Careers Page](https://careers.near.org) | Blockchain/Rust | WW | 85% | ☀️ 5-7PM PHT | ⏳ Ready | - |
-| **Elastic** | [Careers Page](https://www.elastic.co/careers) | Search/Java | WW | 85% | ☀️ 5-7PM PHT | ⏳ Ready | - |
+| **SmartBear** | [Careers Page](https://smartbear.com/company/careers/) | - | PH | 90% | ☀️ 10-12PM PHT | ⏳ Ready | - |
+| **Theoria Medical** | [Senior Product Manager](https://linkedin.com/jobs/theoria-medical-senior-pm) | - | Python, Healthcare APIs | B+ | 88% | ☀️ 3-5PM PHT | ⏳ Ready | - |
+| **Near Protocol** | [Careers Page](https://careers.near.org) | - | C | 85% | ☀️ 5-7PM PHT | ⏳ Ready | - |
+| **Elastic** | [Careers Page](https://www.elastic.co/careers) | - | C | 85% | ☀️ 5-7PM PHT | ⏳ Ready | - |
 | **Proven Software** | [Senior Fullstack Engineer](https://proven.com/careers) | $140K-$170K | .NET, C#, React | B+ | 89% | ☀️ 11PM-1AM PHT | ⏳ Ready | - |
 
 ### **📊 APPLICATION SUMMARY**
