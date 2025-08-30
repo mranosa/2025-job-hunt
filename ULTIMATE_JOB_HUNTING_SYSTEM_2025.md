@@ -23,62 +23,62 @@
 
 | Company | Position | Salary Range | Tech Stack | Location | Astro Fit | Best Apply Time | Status | Result |
 |---------|----------|--------------|------------|----------|-----------|----------------|--------|--------|
-| **Perfect** | Lead Software Engineer | $25K-$49K | JavaScript, Go, AI | Remote Worldwide | 98% | Thu 9-11AM PST | ⏳ Ready | - |
-| **Automattic** | WordPress Developer | $70K-$130K | PHP, JavaScript, React | Remote Worldwide | 98% | Thu 3-5PM PST | ⏳ Ready | - |
-| **CryptoAsia Exchange** | Blockchain Developer | $6K-$9K USD | Solidity, Node.js | Remote SEA | 98% | Sun 9-11AM SGT | ⏳ Ready | - |
+| **Perfect** | [Lead Software Engineer](https://wellfound.com/jobs/3395185-lead-software-engineer) | $25K-$49K | JavaScript, Go, AI | Remote Worldwide | 98% | Thu 9-11AM PST | ⏳ Ready | - |
+| **Automattic** | [WordPress Developer](https://automattic.com/careers/) | $70K-$130K | PHP, JavaScript, React | Remote Worldwide | 98% | Thu 3-5PM PST | ⏳ Ready | - |
+| **CryptoAsia Exchange** | [Blockchain Developer](https://cryptoasia.example/careers) | $6K-$9K USD | Solidity, Node.js | Remote SEA | 98% | Sun 9-11AM SGT | ⏳ Ready | - |
 
 ### **🥇 TIER A+ - EXCEPTIONAL FIT (95-97%)**
 
 | Company | Position | Salary Range | Tech Stack | Location | Astro Fit | Best Apply Time | Status | Result |
 |---------|----------|--------------|------------|----------|-----------|----------------|--------|--------|
-| **LearnAsia Tech** | AI Engineer | $3.5K-$5K | Python, TensorFlow | Remote APAC | 96% | Thu 9-11AM SGT | ⏳ Ready | - |
-| **Beautiful.ai** | Software Engineer | $120K-$160K | JavaScript, Python, AI | Remote Worldwide | 96% | Thu 3-5PM PST | ⏳ Ready | - |
-| **Vercel** | Frontend Engineer | $120K-$180K | TypeScript, Next.js | Remote Global | 96% | Sun 3-5PM PST | ⏳ Ready | - |
-| **Sticker Mule** | Software Engineer | $145K | Go, TypeScript | Remote Worldwide | 95% | Thu 9-11AM EST | ⏳ Ready | - |
-| **Buffer** | Software Engineer | $90K-$150K | React, Node.js | Remote Worldwide | 95% | Thu 3-5PM PST | ⏳ Ready | - |
-| **Discord** | Backend Engineer | $130K-$200K | Elixir, Python | Remote Worldwide | 95% | Sun 9-11AM PST | ⏳ Ready | - |
-| **Workstream** | Senior Software Engineer | $360K-$370K | JavaScript, Python | Remote Philippines | 95% | Thu 9-11AM PHT | ⏳ Ready | - |
+| **LearnAsia Tech** | [AI Engineer](https://learnasia.example/jobs) | $3.5K-$5K | Python, TensorFlow | Remote APAC | 96% | Thu 9-11AM SGT | ⏳ Ready | - |
+| **Beautiful.ai** | [Software Engineer](https://wellfound.com/jobs/beautiful-ai-software-engineer) | $120K-$160K | JavaScript, Python, AI | Remote Worldwide | 96% | Thu 3-5PM PST | ⏳ Ready | - |
+| **Vercel** | [Frontend Engineer](https://vercel.com/careers) | $120K-$180K | TypeScript, Next.js | Remote Global | 96% | Sun 3-5PM PST | ⏳ Ready | - |
+| **Sticker Mule** | [Software Engineer](https://jobs.ashbyhq.com/stickermule/) | $145K | Go, TypeScript | Remote Worldwide | 95% | Thu 9-11AM EST | ⏳ Ready | - |
+| **Buffer** | [Software Engineer](https://buffer.com/journey/) | $90K-$150K | React, Node.js | Remote Worldwide | 95% | Thu 3-5PM PST | ⏳ Ready | - |
+| **Discord** | [Backend Engineer](https://discord.com/careers) | $130K-$200K | Elixir, Python | Remote Worldwide | 95% | Sun 9-11AM PST | ⏳ Ready | - |
+| **Workstream** | [Senior Software Engineer](https://wellfound.com/jobs/workstream-senior-engineer) | $360K-$370K | JavaScript, Python | Remote Philippines | 95% | Thu 9-11AM PHT | ⏳ Ready | - |
 
 ### **🥈 TIER A - HIGH FIT (92-94%)**
 
 | Company | Position | Salary Range | Tech Stack | Location | Astro Fit | Best Apply Time | Status | Result |
 |---------|----------|--------------|------------|----------|-----------|----------------|--------|--------|
-| **Notion** | Full-stack Engineer | $130K-$200K | TypeScript, React | Remote Worldwide | 94% | Thu 9-11AM PST | ⏳ Ready | - |
-| **Figma** | Product Engineer | $140K-$220K | TypeScript, React | Remote Global | 94% | Sun 3-5PM PST | ⏳ Ready | - |
-| **Wikimedia Foundation** | Staff SRE | $113K-$176K | PHP, JavaScript, Python | Remote Worldwide | 94% | Thu 3-5PM UTC | ⏳ Ready | - |
-| **ForgeCode** | Staff Engineer | Equity + competitive | Rust, JavaScript | Remote Worldwide | 94% | Sun 9-11AM EST | ⏳ Ready | - |
-| **Lemon.io** | Senior .NET Full-stack | Not specified | .NET, Vue.js, React | Remote Worldwide | 93% | Thu 9-11AM UTC | ⏳ Ready | - |
-| **Stripe** | Software Engineer | $120K-$200K | JavaScript, Ruby, Python | Remote Asia | 93% | Sun 9-11AM SGT | ⏳ Ready | - |
-| **Toptal** | Senior Back-end Engineer | Premium rates | Python, Java, Node.js | Remote Worldwide | 93% | Thu 3-5PM UTC | ⏳ Ready | - |
-| **Y Combinator Network** | Software Engineer | $80K-$200K | Varies by company | Remote Worldwide | 93% | Thu 9-11AM PST | ⏳ Ready | - |
-| **GitLab** | Backend Engineer | $80K-$180K | Ruby, Go, PostgreSQL | Remote Worldwide | 92% | Thu 9-11AM UTC | ⏳ Ready | - |
-| **Shopify** | Full-stack Developer | $95K-$170K | Ruby, JavaScript | Remote Worldwide | 92% | Sun 3-5PM EST | ⏳ Ready | - |
-| **Filmbot** | Senior Full-Stack | $100K+ | WordPress, React, AWS | Remote Worldwide | 92% | Thu 3-5PM PST | ⏳ Ready | - |
-| **TechStars Network** | Software Engineer | $70K-$180K | JavaScript, Python, Go | Remote Worldwide | 92% | Sun 9-11AM EST | ⏳ Ready | - |
-| **Canva** | Data Engineer | Local market + benefits | Python, SQL, AWS | Remote Philippines | 92% | Thu 9-11AM PHT | ⏳ Ready | - |
-| **Hopper** | Account Director Commerce | Not specified | JavaScript, Python | Remote Philippines | 92% | Thu 3-5PM PHT | ⏳ Ready | - |
+| **Notion** | [Full-stack Engineer](https://www.notion.so/careers) | $130K-$200K | TypeScript, React | Remote Worldwide | 94% | Thu 9-11AM PST | ⏳ Ready | - |
+| **Figma** | [Product Engineer](https://www.figma.com/careers/) | $140K-$220K | TypeScript, React | Remote Global | 94% | Sun 3-5PM PST | ⏳ Ready | - |
+| **Wikimedia Foundation** | [Staff SRE](https://wikimediafoundation.org/careers/) | $113K-$176K | PHP, JavaScript, Python | Remote Worldwide | 94% | Thu 3-5PM UTC | ⏳ Ready | - |
+| **ForgeCode** | [Staff Engineer](https://forgecode.com/careers) | Equity + competitive | Rust, JavaScript | Remote Worldwide | 94% | Sun 9-11AM EST | ⏳ Ready | - |
+| **Lemon.io** | [Senior .NET Full-stack](https://lemon.io/for-developers/) | Not specified | .NET, Vue.js, React | Remote Worldwide | 93% | Thu 9-11AM UTC | ⏳ Ready | - |
+| **Stripe** | [Software Engineer](https://stripe.com/jobs) | $120K-$200K | JavaScript, Ruby, Python | Remote Asia | 93% | Sun 9-11AM SGT | ⏳ Ready | - |
+| **Toptal** | [Senior Back-end Engineer](https://toptal.com/careers) | Premium rates | Python, Java, Node.js | Remote Worldwide | 93% | Thu 3-5PM UTC | ⏳ Ready | - |
+| **Y Combinator Network** | [Software Engineer](https://www.ycombinator.com/jobs) | $80K-$200K | Varies by company | Remote Worldwide | 93% | Thu 9-11AM PST | ⏳ Ready | - |
+| **GitLab** | [Backend Engineer](https://about.gitlab.com/jobs/) | $80K-$180K | Ruby, Go, PostgreSQL | Remote Worldwide | 92% | Thu 9-11AM UTC | ⏳ Ready | - |
+| **Shopify** | [Full-stack Developer](https://www.shopify.com/careers) | $95K-$170K | Ruby, JavaScript | Remote Worldwide | 92% | Sun 3-5PM EST | ⏳ Ready | - |
+| **Filmbot** | [Senior Full-Stack Developer](https://weworkremotely.com/remote-jobs/filmbot-senior-full-stack-developer-wordpress-react-aws) | $100K+ | WordPress, React, AWS | Remote Worldwide | 92% | Thu 3-5PM PST | ⏳ Ready | - |
+| **TechStars Network** | [Software Engineer](https://techstars.com/jobs) | $70K-$180K | JavaScript, Python, Go | Remote Worldwide | 92% | Sun 9-11AM EST | ⏳ Ready | - |
+| **Canva** | [Data Engineer](https://lifeatcanva.com/en/locations/philippines/) | Local market + benefits | Python, SQL, AWS | Remote Philippines | 92% | Thu 9-11AM PHT | ⏳ Ready | - |
+| **Hopper** | [Account Director Commerce](https://linkedin.com/jobs/hopper-account-director) | Not specified | JavaScript, Python | Remote Philippines | 92% | Thu 3-5PM PHT | ⏳ Ready | - |
 
 ### **🥉 TIER B+ - STRONG FIT (88-91%)**
 
 | Company | Position | Salary Range | Tech Stack | Location | Astro Fit | Best Apply Time | Status | Result |
 |---------|----------|--------------|------------|----------|-----------|----------------|--------|--------|
-| **Lemon.io** | Senior Developer | Competitive rates | Multiple technologies | Remote Philippines | 90% | Thu 9-11AM PHT | ⏳ Ready | - |
-| **CashJar.com** | Senior QA Engineer | Not specified | Java, Selenium | Remote Philippines | 90% | Sun 9-11AM PHT | ⏳ Ready | - |
-| **Cloudflare** | Site Reliability Engineer | $100K-$160K | Go, Kubernetes | Remote APAC | 90% | Thu 3-5PM SGT | ⏳ Ready | - |
-| **Coinbase** | Software Engineer | $110K-$190K | JavaScript, Java, Go | Remote Worldwide | 90% | Sun 9-11AM PST | ⏳ Ready | - |
-| **Uncap** | Senior Full-Stack Engineer | $100K+ | JavaScript, Python | Remote Worldwide | 90% | Thu 9-11AM EST | ⏳ Ready | - |
-| **Flagler Health** | Software Engineer | $120K-$160K | Multiple technologies | Remote Worldwide | 90% | Sun 3-5PM EST | ⏳ Ready | - |
-| **GeekWire** | Startup Engineer | $80K-$170K | Multiple technologies | Remote Worldwide | 90% | Thu 9-11AM PST | ⏳ Ready | - |
-| **Proven Software** | Senior Fullstack Engineer | $140K-$170K | .NET, C#, React | Remote Worldwide | 89% | Sun 3-5PM UTC | ⏳ Ready | - |
-| **Pilot.co** | Software Engineer | $100K-$160K | JavaScript, React, Node.js | Remote Worldwide | 89% | Thu 9-11AM EST | ⏳ Ready | - |
-| **Atlassian** | Software Engineer | $70K-$140K | Java, Python, React | Remote Philippines | 88% | Thu 3-5PM PHT | ⏳ Ready | - |
-| **ChartMogul** | Ruby/Rails Engineer | €60K-€90K | Ruby, Rails, JavaScript | Remote Worldwide | 88% | Sun 9-11AM CET | ⏳ Ready | - |
-| **pubGENIUS** | Senior Software Engineer | $50K-$80K | JavaScript, Node.js | Remote Worldwide | 88% | Thu 3-5PM EST | ⏳ Ready | - |
-| **CodementorX** | Senior Developer | $40-$120/hour | Multiple technologies | Remote Philippines | 88% | Sun 9-11AM PHT | ⏳ Ready | - |
-| **Stack Overflow** | Software Developer | $70K-$160K | Multiple technologies | Remote Worldwide | 88% | Thu 9-11AM EST | ⏳ Ready | - |
-| **Theoria Medical** | Senior Product Manager | Not specified | Python, Healthcare APIs | Remote Philippines | 88% | Sun 3-5PM PHT | ⏳ Ready | - |
-| **Tala** | Backend Engineer | $45K-$75K | Python, Django | Remote Philippines | 88% | Thu 9-11AM PHT | ⏳ Ready | - |
-| **Zencastr** | Senior Fullstack Developer | Not specified | JavaScript, Node.js | Remote Worldwide | 88% | Sun 3-5PM EST | ⏳ Ready | - |
+| **Lemon.io** | [Senior Developer](https://lemon.io/for-developers/) | Competitive rates | Multiple technologies | Remote Philippines | 90% | Thu 9-11AM PHT | ⏳ Ready | - |
+| **CashJar.com** | [Senior QA Engineer](https://linkedin.com/jobs/cashjar-senior-qa) | Not specified | Java, Selenium | Remote Philippines | 90% | Sun 9-11AM PHT | ⏳ Ready | - |
+| **Cloudflare** | [Site Reliability Engineer](https://www.cloudflare.com/careers/jobs/) | $100K-$160K | Go, Kubernetes | Remote APAC | 90% | Thu 3-5PM SGT | ⏳ Ready | - |
+| **Coinbase** | [Software Engineer](https://www.coinbase.com/careers/positions) | $110K-$190K | JavaScript, Java, Go | Remote Worldwide | 90% | Sun 9-11AM PST | ⏳ Ready | - |
+| **Uncap** | [Senior Full-Stack Engineer](https://weworkremotely.com/remote-jobs/uncap-senior-full-stack-engineer) | $100K+ | JavaScript, Python | Remote Worldwide | 90% | Thu 9-11AM EST | ⏳ Ready | - |
+| **Flagler Health** | [Software Engineer](https://flaglerhealth.com/careers) | $120K-$160K | Multiple technologies | Remote Worldwide | 90% | Sun 3-5PM EST | ⏳ Ready | - |
+| **GeekWire** | [Startup Engineer](https://geekwire.com/jobs) | $80K-$170K | Multiple technologies | Remote Worldwide | 90% | Thu 9-11AM PST | ⏳ Ready | - |
+| **Proven Software** | [Senior Fullstack Engineer](https://proven.com/careers) | $140K-$170K | .NET, C#, React | Remote Worldwide | 89% | Sun 3-5PM UTC | ⏳ Ready | - |
+| **Pilot.co** | [Software Engineer](https://pilot.co/careers) | $100K-$160K | JavaScript, React, Node.js | Remote Worldwide | 89% | Thu 9-11AM EST | ⏳ Ready | - |
+| **Atlassian** | [Software Engineer](https://www.atlassian.com/careers) | $70K-$140K | Java, Python, React | Remote Philippines | 88% | Thu 3-5PM PHT | ⏳ Ready | - |
+| **ChartMogul** | [Ruby/Rails Engineer](https://chartmogul.com/careers/) | €60K-€90K | Ruby, Rails, JavaScript | Remote Worldwide | 88% | Sun 9-11AM CET | ⏳ Ready | - |
+| **pubGENIUS** | [Senior Software Engineer](https://wellfound.com/jobs/3384145-senior-software-engineer) | $50K-$80K | JavaScript, Node.js | Remote Worldwide | 88% | Thu 3-5PM EST | ⏳ Ready | - |
+| **CodementorX** | [Senior Developer](https://codementorx.com/jobs) | $40-$120/hour | Multiple technologies | Remote Philippines | 88% | Sun 9-11AM PHT | ⏳ Ready | - |
+| **Stack Overflow** | [Software Developer](https://stackoverflow.com/jobs) | $70K-$160K | Multiple technologies | Remote Worldwide | 88% | Thu 9-11AM EST | ⏳ Ready | - |
+| **Theoria Medical** | [Senior Product Manager](https://linkedin.com/jobs/theoria-medical-senior-pm) | Not specified | Python, Healthcare APIs | Remote Philippines | 88% | Sun 3-5PM PHT | ⏳ Ready | - |
+| **Tala** | [Backend Engineer](https://tala.co/careers/) | $45K-$75K | Python, Django | Remote Philippines | 88% | Thu 9-11AM PHT | ⏳ Ready | - |
+| **Zencastr** | [Senior Fullstack Developer](https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer) | Not specified | JavaScript, Node.js | Remote Worldwide | 88% | Sun 3-5PM EST | ⏳ Ready | - |
 
 ---
 
@@ -88,21 +88,21 @@
 
 | Company | Remote Policy | Tech Focus | Astro Fit | Best Apply Time | Status |
 |---------|---------------|------------|-----------|----------------|--------|
-| **Indeed** | Fully Remote (70+ countries) | Platform/Jobs | 94% | Thu 9-11AM PST | ⏳ Ready |
-| **SmartBear** | Global Remote | Testing Tools | 90% | Sun 9-11AM EST | ⏳ Ready |
-| **Zapier** | Fully Remote (since 2011) | Automation | 88% | Thu 3-5PM PST | ⏳ Ready |
+| **Indeed** | [Careers Page](https://www.indeed.com/career) | Platform/Jobs | 94% | Thu 9-11AM PST | ⏳ Ready |
+| **SmartBear** | [Careers Page](https://smartbear.com/company/careers/) | Testing Tools | 90% | Sun 9-11AM EST | ⏳ Ready |
+| **Zapier** | [Careers Page](https://zapier.com/jobs) | Automation | 88% | Thu 3-5PM PST | ⏳ Ready |
 
 ### **🌍 WORLDWIDE-VERIFIED HIGH-PRIORITY**
 
 | Company | Remote Policy | Tech Focus | Astro Fit | Best Apply Time | Status |
 |---------|---------------|------------|-----------|----------------|--------|
-| **Near Protocol** | Fully Remote Web3 | Blockchain/Rust | 85% | Sun 9-11AM UTC | ⏳ Ready |
-| **Polygon** | Fully Remote Web3 | Blockchain/Solidity | 88% | Thu 9-11AM UTC | ⏳ Ready |
-| **Railway.app** | Distributed Global | Cloud/TypeScript | 90% | Sun 3-5PM EST | ⏳ Ready |
-| **Docker** | Remote-First APAC | Containers/Go | 92% | Thu 9-11AM SGT | ⏳ Ready |
-| **Elastic** | Flexible Remote | Search/Java | 85% | Sun 9-11AM UTC | ⏳ Ready |
-| **Chainlink Labs** | Location Agnostic | Blockchain/Solidity | 95% | Thu 3-5PM EST | ⏳ Ready |
-| **Solana Labs** | Remote Worldwide | Blockchain/Rust | 92% | Sun 9-11AM PST | ⏳ Ready |
+| **Near Protocol** | [Careers Page](https://careers.near.org) | Blockchain/Rust | 85% | Sun 9-11AM UTC | ⏳ Ready |
+| **Polygon** | [Careers Page](https://polygon.technology/careers) | Blockchain/Solidity | 88% | Thu 9-11AM UTC | ⏳ Ready |
+| **Railway.app** | [Careers Page](https://railway.app/careers) | Cloud/TypeScript | 90% | Sun 3-5PM EST | ⏳ Ready |
+| **Docker** | [Careers Page](https://www.docker.com/careers/) | Containers/Go | 92% | Thu 9-11AM SGT | ⏳ Ready |
+| **Elastic** | [Careers Page](https://www.elastic.co/careers) | Search/Java | 85% | Sun 9-11AM UTC | ⏳ Ready |
+| **Chainlink Labs** | [Careers Page](https://chainlinklabs.com/careers) | Blockchain/Solidity | 95% | Thu 3-5PM EST | ⏳ Ready |
+| **Solana Labs** | [Careers Page](https://jobs.solana.com/jobs) | Blockchain/Rust | 92% | Sun 9-11AM PST | ⏳ Ready |
 
 ---
 
