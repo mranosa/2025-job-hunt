@@ -28,20 +28,20 @@
 | **Notion** | [Full-stack Engineer](https://www.notion.so/careers) | $130K-$200K | TypeScript, React | A | 94% | 🗓️ 1-3AM PHT | ⏳ Ready | - |
 | **Y Combinator Network** | [Software Engineer](https://www.ycombinator.com/jobs) | $80K-$200K | - | A | 93% | 🗓️ 1-3AM PHT | ⏳ Ready | - |
 | **GeekWire** | [Startup Engineer](https://geekwire.com/jobs) | $80K-$170K | - | B+ | 90% | 🗓️ 1-3AM PHT | ⏳ Ready | - |
-| **Indeed** | [Careers Page](https://www.indeed.com/career) | - | PH | 94% | 🗓️ 1-3AM PHT | ⏳ Ready | - |
-| **Chainlink Labs** | [Careers Page](https://chainlinklabs.com/careers) | - | WW | 95% | 🗓️ 4-6AM PHT | ⏳ Ready | - |
+| **Indeed** | [Careers Page](https://www.indeed.com/career) | - | - | PH | 94% | 🗓️ 1-3AM PHT | ⏳ Ready | - |
+| **Chainlink Labs** | [Careers Page](https://chainlinklabs.com/careers) | - | Solidity | WW | 95% | 🗓️ 4-6AM PHT | ⏳ Ready | - |
 | **pubGENIUS** | [Senior Software Engineer](https://wellfound.com/jobs/3384145-senior-software-engineer) | $50K-$80K | JavaScript, Node.js | B+ | 88% | 🗓️ 4-6AM PHT | ⏳ Ready | - |
 | **Automattic** | [WordPress Developer](https://automattic.com/careers/) | $70K-$130K | PHP, JavaScript, React | S | 98% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
 | **Beautiful.ai** | [Software Engineer](https://wellfound.com/jobs/beautiful-ai-software-engineer) | $120K-$160K | JavaScript, Python, AI | A+ | 96% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
 | **Buffer** | [Software Engineer](https://buffer.com/journey/) | $90K-$150K | React, Node.js | A+ | 95% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
 | **Filmbot** | [Senior Full-Stack Developer](https://weworkremotely.com/remote-jobs/filmbot-senior-full-stack-developer-wordpress-react-aws) | $100K+ | WordPress, React, AWS | A | 92% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
-| **Zapier** | [Careers Page](https://zapier.com/jobs) | - | PH | 88% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
+| **Zapier** | [Careers Page](https://zapier.com/jobs) | - | - | PH | 88% | 🗓️ 7-9AM PHT | ⏳ Ready | - |
 | **LearnAsia Tech** | [AI Engineer](https://learnasia.example/jobs) | $3.5K-$5K | Python, TensorFlow | A+ | 96% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
 | **Workstream** | [Senior Software Engineer](https://wellfound.com/jobs/workstream-senior-engineer) | $360K-$370K | JavaScript, Python | A+ | 95% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
 | **Canva** | [Data Engineer](https://lifeatcanva.com/en/locations/philippines/) | - | Python, SQL, AWS | A | 92% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
 | **Lemon.io** | [Senior Developer](https://lemon.io/for-developers/) | - | - | B+ | 90% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
 | **Tala** | [Backend Engineer](https://tala.co/careers/) | $45K-$75K | Python, Django | B+ | 88% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
-| **Docker** | [Careers Page](https://www.docker.com/careers/) | - | WW | 92% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
+| **Docker** | [Careers Page](https://www.docker.com/careers/) | - | Go | WW | 92% | 🗓️ 9-11AM PHT | ⏳ Ready | - |
 | **Sticker Mule** | [Software Engineer](https://jobs.ashbyhq.com/stickermule/) | $145K | Go, TypeScript | A+ | 95% | 🗓️ 10-12PM PHT | ⏳ Ready | - |
 | **Uncap** | [Senior Full-Stack Engineer](https://weworkremotely.com/remote-jobs/uncap-senior-full-stack-engineer) | $100K+ | JavaScript, Python | B+ | 90% | 🗓️ 10-12PM PHT | ⏳ Ready | - |
 | **Pilot.co** | [Software Engineer](https://pilot.co/careers) | $100K-$160K | JavaScript, React, Node.js | B+ | 89% | 🗓️ 10-12PM PHT | ⏳ Ready | - |
@@ -51,7 +51,7 @@
 | **Atlassian** | [Software Engineer](https://www.atlassian.com/careers) | $70K-$140K | Java, Python, React | B+ | 88% | 🗓️ 3-5PM PHT | ⏳ Ready | - |
 | **Lemon.io** | [Senior .NET Full-stack](https://lemon.io/for-developers/) | - | .NET, Vue.js, React | A | 93% | 🗓️ 5-7PM PHT | ⏳ Ready | - |
 | **GitLab** | [Backend Engineer](https://about.gitlab.com/jobs/) | $80K-$180K | Ruby, Go, PostgreSQL | A | 92% | 🗓️ 5-7PM PHT | ⏳ Ready | - |
-| **Polygon** | [Careers Page](https://polygon.technology/careers) | - | WW | 88% | 🗓️ 5-7PM PHT | ⏳ Ready | - |
+| **Polygon** | [Careers Page](https://polygon.technology/careers) | - | Solidity | WW | 88% | 🗓️ 5-7PM PHT | ⏳ Ready | - |
 | **Wikimedia Foundation** | [Staff SRE](https://wikimediafoundation.org/careers/) | $113K-$176K | PHP, JavaScript, Python | A | 94% | 🗓️ 11PM-1AM PHT | ⏳ Ready | - |
 | **Toptal** | [Senior Back-end Engineer](https://toptal.com/careers) | - | Python, Java, Node.js | A | 93% | 🗓️ 11PM-1AM PHT | ⏳ Ready | - |
 
@@ -61,10 +61,10 @@
 |---------|----------|--------------|------------|------|-----------|------------|--------|--------|
 | **Discord** | [Backend Engineer](https://discord.com/careers) | $130K-$200K | Elixir, Python | A+ | 95% | ☀️ 1-3AM PHT | ⏳ Ready | - |
 | **Coinbase** | [Software Engineer](https://www.coinbase.com/careers/positions) | $110K-$190K | JavaScript, Java, Go | B+ | 90% | ☀️ 1-3AM PHT | ⏳ Ready | - |
-| **Solana Labs** | [Careers Page](https://jobs.solana.com/jobs) | - | WW | 92% | ☀️ 1-3AM PHT | ⏳ Ready | - |
+| **Solana Labs** | [Careers Page](https://jobs.solana.com/jobs) | - | Rust | WW | 92% | ☀️ 1-3AM PHT | ⏳ Ready | - |
 | **Shopify** | [Full-stack Developer](https://www.shopify.com/careers) | $95K-$170K | Ruby, JavaScript | A | 92% | ☀️ 4-6AM PHT | ⏳ Ready | - |
 | **Flagler Health** | [Software Engineer](https://flaglerhealth.com/careers) | $120K-$160K | - | B+ | 90% | ☀️ 4-6AM PHT | ⏳ Ready | - |
-| **Railway.app** | [Careers Page](https://railway.app/careers) | - | WW | 90% | ☀️ 4-6AM PHT | ⏳ Ready | - |
+| **Railway.app** | [Careers Page](https://railway.app/careers) | - | TypeScript | WW | 90% | ☀️ 4-6AM PHT | ⏳ Ready | - |
 | **Zencastr** | [Senior Fullstack Developer](https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer) | - | JavaScript, Node.js | B+ | 88% | ☀️ 4-6AM PHT | ⏳ Ready | - |
 | **ChartMogul** | [Ruby/Rails Engineer](https://chartmogul.com/careers/) | €60K-€90K | Ruby, Rails, JavaScript | B+ | 88% | ☀️ 4-6PM PHT | ⏳ Ready | - |
 | **Vercel** | [Frontend Engineer](https://vercel.com/careers) | $120K-$180K | TypeScript, Next.js | A+ | 96% | ☀️ 7-9AM PHT | ⏳ Ready | - |
@@ -75,16 +75,16 @@
 | **CodementorX** | [Senior Developer](https://codementorx.com/jobs) | $40-$120/hour | - | B+ | 88% | ☀️ 9-11AM PHT | ⏳ Ready | - |
 | **ForgeCode** | [Staff Engineer](https://forgecode.com/careers) | - | Rust, JavaScript | A | 94% | ☀️ 10-12PM PHT | ⏳ Ready | - |
 | **TechStars Network** | [Software Engineer](https://techstars.com/jobs) | $70K-$180K | JavaScript, Python, Go | A | 92% | ☀️ 10-12PM PHT | ⏳ Ready | - |
-| **SmartBear** | [Careers Page](https://smartbear.com/company/careers/) | - | PH | 90% | ☀️ 10-12PM PHT | ⏳ Ready | - |
+| **SmartBear** | [Careers Page](https://smartbear.com/company/careers/) | - | - | PH | 90% | ☀️ 10-12PM PHT | ⏳ Ready | - |
 | **Theoria Medical** | [Senior Product Manager](https://linkedin.com/jobs/theoria-medical-senior-pm) | - | Python, Healthcare APIs | B+ | 88% | ☀️ 3-5PM PHT | ⏳ Ready | - |
-| **Near Protocol** | [Careers Page](https://careers.near.org) | - | C | 85% | ☀️ 5-7PM PHT | ⏳ Ready | - |
-| **Elastic** | [Careers Page](https://www.elastic.co/careers) | - | C | 85% | ☀️ 5-7PM PHT | ⏳ Ready | - |
+| **Near Protocol** | [Careers Page](https://careers.near.org) | - | Rust | C | 85% | ☀️ 5-7PM PHT | ⏳ Ready | - |
+| **Elastic** | [Careers Page](https://www.elastic.co/careers) | - | Java | C | 85% | ☀️ 5-7PM PHT | ⏳ Ready | - |
 | **Proven Software** | [Senior Fullstack Engineer](https://proven.com/careers) | $140K-$170K | .NET, C#, React | B+ | 89% | ☀️ 11PM-1AM PHT | ⏳ Ready | - |
 
 ### **📊 APPLICATION SUMMARY**
-- **🗓️ Thursday**: 29 companies (Primary Mercury Communication Day)
+- **🗓️ Thursday**: 30 companies (Primary Mercury Communication Day)
 - **☀️ Sunday**: 21 companies (Solar Leadership Energy Day)
-- **Total Opportunities**: 50 premium verified positions
+- **Total Opportunities**: 51 premium verified positions
 
 ---
 
@@ -94,21 +94,21 @@
 
 | Company | Remote Policy | Tech Focus | Astro Fit | Best Apply Time | Status |
 |---------|---------------|------------|-----------|----------------|--------|
-| **Indeed** | [Careers Page](https://www.indeed.com/career) | Platform/Jobs | 94% | 🗓️ Thu 1-3AM PHT | ⏳ Ready |
-| **SmartBear** | [Careers Page](https://smartbear.com/company/careers/) | Testing Tools | 90% | ☀️ Sun 10-12PM PHT | ⏳ Ready |
-| **Zapier** | [Careers Page](https://zapier.com/jobs) | Automation | 88% | 🗓️ Thu 7-9AM PHT | ⏳ Ready |
+| **Indeed** | [Careers Page](https://www.indeed.com/career) | - | 94% | 🗓️ Thu 1-3AM PHT | ⏳ Ready |
+| **SmartBear** | [Careers Page](https://smartbear.com/company/careers/) | - | 90% | ☀️ Sun 10-12PM PHT | ⏳ Ready |
+| **Zapier** | [Careers Page](https://zapier.com/jobs) | - | 88% | 🗓️ Thu 7-9AM PHT | ⏳ Ready |
 
 ### **🌍 WORLDWIDE-VERIFIED HIGH-PRIORITY**
 
 | Company | Remote Policy | Tech Focus | Astro Fit | Best Apply Time | Status |
 |---------|---------------|------------|-----------|----------------|--------|
-| **Near Protocol** | [Careers Page](https://careers.near.org) | Blockchain/Rust | 85% | ☀️ Sun 5-7PM PHT | ⏳ Ready |
-| **Polygon** | [Careers Page](https://polygon.technology/careers) | Blockchain/Solidity | 88% | 🗓️ Thu 5-7PM PHT | ⏳ Ready |
-| **Railway.app** | [Careers Page](https://railway.app/careers) | Cloud/TypeScript | 90% | ☀️ Sun 4-6AM PHT | ⏳ Ready |
-| **Docker** | [Careers Page](https://www.docker.com/careers/) | Containers/Go | 92% | 🗓️ Thu 9-11AM PHT | ⏳ Ready |
-| **Elastic** | [Careers Page](https://www.elastic.co/careers) | Search/Java | 85% | ☀️ Sun 5-7PM PHT | ⏳ Ready |
-| **Chainlink Labs** | [Careers Page](https://chainlinklabs.com/careers) | Blockchain/Solidity | 95% | 🗓️ Thu 4-6AM PHT | ⏳ Ready |
-| **Solana Labs** | [Careers Page](https://jobs.solana.com/jobs) | Blockchain/Rust | 92% | ☀️ Sun 1-3AM PHT | ⏳ Ready |
+| **Near Protocol** | [Careers Page](https://careers.near.org) | Rust | 85% | ☀️ Sun 5-7PM PHT | ⏳ Ready |
+| **Polygon** | [Careers Page](https://polygon.technology/careers) | Solidity | 88% | 🗓️ Thu 5-7PM PHT | ⏳ Ready |
+| **Railway.app** | [Careers Page](https://railway.app/careers) | TypeScript | 90% | ☀️ Sun 4-6AM PHT | ⏳ Ready |
+| **Docker** | [Careers Page](https://www.docker.com/careers/) | Go | 92% | 🗓️ Thu 9-11AM PHT | ⏳ Ready |
+| **Elastic** | [Careers Page](https://www.elastic.co/careers) | Java | 85% | ☀️ Sun 5-7PM PHT | ⏳ Ready |
+| **Chainlink Labs** | [Careers Page](https://chainlinklabs.com/careers) | Solidity | 95% | 🗓️ Thu 4-6AM PHT | ⏳ Ready |
+| **Solana Labs** | [Careers Page](https://jobs.solana.com/jobs) | Rust | 92% | ☀️ Sun 1-3AM PHT | ⏳ Ready |
 
 ---
 
