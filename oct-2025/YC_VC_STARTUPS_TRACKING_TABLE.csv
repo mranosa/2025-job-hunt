@@ -1,0 +1,47 @@
+Company,VC_Backer,Job_Title,Salary_Range,Equity_Range,Stage,Tech_Stack,Remote_Policy,Visa_Sponsorship,Apply_URL,Priority,Philippines_Friendly
+Confident AI,YC W25,Founding Fullstack Engineer,$100K-$200K,1.5-2.0%,Seed,"TypeScript, React, LLMs",Remote US,Yes,https://www.workatastartup.com/jobs/83246,High,Medium
+StackAI,YC W23,Security Engineer,$100K-$160K,0.5-1.0%,Series A,"AI/ML, Security",Remote,Yes,https://www.workatastartup.com/jobs/79368,High,Medium
+Windmill,YC S22,Backend Engineer (Rust),€40K-€90K,0.3-0.8%,Series A,"Rust, Docker, K8s",Remote EU,Yes,https://www.workatastartup.com/jobs/54266,High,Low (timezone)
+kapa.ai,YC S23,Research Engineer AI,$100K-$170K,0.5-1.2%,Series A,"Python, LLMs, NLP",Remote EU,Yes,https://www.workatastartup.com/jobs/76641,High,Low (timezone)
+Shipmates,YC S22,Senior Software Engineer,$22K-$44K USD,0.2-0.5%,Series A,"React, Node.js",Remote PH,N/A,https://www.ycombinator.com/jobs/location/manila,Very High,Very High (LOCAL)
+Bot MD,YC S18,Senior Product Data Engineer,$27K-$55K USD,0.1-0.3%,Series B,"Python, ML, Healthcare",Manila,N/A,https://www.ycombinator.com/jobs/location/manila,Very High,Very High (LOCAL)
+Kalibrr,YC,Full-stack Engineer,$33K-$64K USD,0.1-0.4%,Series C,"React, Django, AWS",Manila + Remote,N/A,https://kalibrr.com/careers,Very High,Very High (LOCAL)
+Temporal,Sequoia,Senior SWE Cloud,$180K-$225K,0.05-0.15%,Series C,"Go, K8s, Distributed",Remote US/CA/AU/IN,Yes,https://temporal.io/careers,High,High (AU/IN offices)
+Vanta,Sequoia,Senior Security Engineer,$218K-$256K,0.03-0.10%,Series D,"Python, AWS, Security",Fully Remote,Yes,https://jobs.ashbyhq.com/vanta,High,High
+Hex,Sequoia,Full-stack Engineer,$150K-$210K,0.05-0.20%,Series C,"TypeScript, React, Python",Fully Remote,Yes,https://hex.tech/careers,High,High
+Statsig,Sequoia,Solutions Engineer,$140K-$200K,0.05-0.15%,Series C,"React, TypeScript, Python",Remote US,Yes,https://jobs.ashbyhq.com/statsig,High,Medium
+Glean,Sequoia+KP,SWE AI/Search,$170K-$250K,0.02-0.08%,Series F,"Python, ML, Search",Remote,Yes,https://glean.com/careers,Medium,Medium
+XBOW,Sequoia,Security Engineer,$150K-$220K,0.1-0.3%,Series B,"Python, AI, Security",Fully Remote,Yes,Check Sequoia board,High,High
+OpenRouter,Sequoia,Backend Engineer,$120K-$180K,0.5-1.5%,Series A,"Node.js, AI APIs",Fully Remote,Yes,Check Sequoia board,Very High,Very High
+Semgrep,Sequoia,Software Engineer,$150K-$210K,0.05-0.15%,Series D,"OCaml, Python",Remote-first,Yes,https://semgrep.com/careers,Medium,High
+Chainguard,Sequoia,Software Engineer,$160K-$230K,0.03-0.10%,Series D,"Go, Kubernetes, Security",Remote,Yes,Check Sequoia board,Medium,Medium
+xAI,Sequoia,SWE X Money,$180K-$440K,Significant,Series B,"Python, AI/ML, Payments",On-site PA,Yes,Check company board,Low,Low (on-site)
+Harmonic,a16z,ML Engineer,$160K-$240K,0.1-0.3%,Series B,"Python, PyTorch, MLOps",Fully Remote,Yes,https://jobs.ashbyhq.com/harmonic,High,High
+Harvey,a16z,SWE AI Platform,$170K-$260K,0.05-0.15%,Series E,"Python, LLMs, Legal",Remote/SF,Yes,https://jobs.ashbyhq.com/harvey,High,Medium
+Nooks,a16z,Full-stack Engineer,$130K-$190K,0.1-0.25%,Series B,"React, Node.js, AI",Remote-first,Yes,Check a16z board,High,High
+Codeium,a16z,SWE AI/ML,$150K-$220K,0.05-0.20%,Series C,"Python, TypeScript, LLMs",Remote,Yes,https://jobs.ashbyhq.com/codeium,High,High
+Rippling,Multi-VC,Software Engineer,$150K-$220K,0.02-0.08%,Series F,"React, Python, Django",Hybrid,Yes,https://www.rippling.com/engineering,Medium,Medium
+Ambience,a16z,Backend Engineer,$140K-$200K,0.1-0.25%,Series B,"Python, Healthcare, AI",Remote,Yes,Check a16z board,High,High
+Improbable,a16z crypto,Senior Web3 Solidity Eng,$81K-$87K + tokens,Token + equity,Series B+,"Solidity, Web3.js, React",Remote UK/EU,Yes,https://web3.career/senior-web3-solidity-engineer-improbable/138202,High,Medium
+Ready Player Me,a16z crypto,Web3 Software Engineer,$90K-$250K,Token + equity,Series B,"TypeScript, React, Solidity",Remote Global,Yes,https://web3.career/web3-software-engineer-readyplayerme/83712,High,High
+Glider,a16z crypto,Founding Engineer,$120K-$200K,0.5-2.0%,Seed,"Next.js, TypeScript, Solidity",Fully Remote,Yes,https://web3.career/founding-engineer-glider/98662,Very High,Very High
+Dapper Labs,a16z crypto,Frontend/Backend Eng,$110K-$180K,0.05-0.15%,Series D,"React, Go, Solidity",Remote CA/US,Yes,https://www.dapperlabs.com/careers,High,Medium
+Anchorage Digital,a16z crypto,Staff Backend Engineer,$170K-$250K,0.03-0.10%,Series D,"Go, Python, Crypto",Remote US,Yes,Check a16z board,Medium,Medium
+Materialize,KP+Lightspeed,Backend Engineer,$150K-$210K,0.05-0.15%,Series C,"Rust, PostgreSQL, Streaming",Remote-first,Yes,Check KP board,High,High
+Moveworks,KP+Lightspeed,ML Engineer,$160K-$230K,0.03-0.10%,Late-stage,"Python, NLP, Enterprise AI",Remote,Yes,Check KP board,Medium,Medium
+Notion,First Round,Software Engineer,$160K-$240K,0.02-0.08%,Late-stage,"React, TypeScript, Real-time",Remote/SF/NYC,Yes,https://notion.com/careers,Medium,Medium
+Figma,First Round,SWE Platform Services,$170K-$260K,0.01-0.05%,Late-stage,"TypeScript, WebAssembly",Remote Global,Yes,https://job-boards.greenhouse.io/figma,Medium,High
+Ramp,Multi-VC,SWE Backend/Frontend,$160K-$240K,0.02-0.08%,Late-stage,"React, TypeScript, Python",NYC/Remote,Yes,https://jobs.ashbyhq.com/ramp,Medium,Medium
+Brex,Multi-VC,Software Engineer,$150K-$230K,0.02-0.07%,Late-stage,"React, Elixir",Hybrid Multi-City,Yes,https://boards.greenhouse.io/embed/job_board?for=brex,Low,Low (hybrid)
+Mercury,Multi-VC,Software Engineer,$150K-$220K,0.02-0.08%,Late-stage,"React, Haskell, PostgreSQL",Remote/SF,Yes,https://mercury.com/careers,Medium,Medium
+Vercel,Multi-VC,SWE Platform/Infra,$160K-$240K,0.03-0.12%,Series D,"Next.js, React, TypeScript",Fully Remote,Yes,https://vercel.com/careers,High,Very High
+Retool,Multi-VC,Software Engineer,$150K-$220K,0.05-0.15%,Series C,"React, JavaScript, Low-code",Remote-first,Yes,https://retool.com/careers,High,High
+Webflow,Multi-VC,Software Engineer,$140K-$210K,0.03-0.10%,Late-stage,"React, TypeScript, Visual",Remote Global,Yes,https://webflow.com/careers,High,High
+Anthropic,Multi-VC,Software Engineer,$180K-$300K+,Significant,Series C+,"Python, PyTorch, LLMs",SF + Remote transition,Yes,https://www.anthropic.com/careers,Low,Medium (expanding intl)
+OpenAI,Multi-VC,SWE Infrastructure,$200K-$400K+,Significant,Late-stage,"Python, PyTorch, Distributed",SF + Limited Remote,Yes,https://openai.com/careers,Low,Low (mostly on-site)
+Scale AI,Multi-VC,SWE / ML Engineer,$150K-$250K,0.02-0.10%,Late-stage,"Python, ML Pipelines",SF/Remote,Yes,https://scale.com/careers,Medium,Medium
+Nitrode,YC W25,Game Engineer (AI),$120K-$180K,1.0-2.0%,Pre-seed,"Unity/Unreal, Python, AI",Remote US,Possible,Check YC board,High,Medium
+Socratix AI,YC S25,Backend/ML Engineer,$130K-$200K,0.5-1.5%,Seed,"Python, PyTorch, Fraud",Remote,Yes,Check YC board,High,High
+truthsystems,YC S25,Full-stack Engineer,$120K-$190K,1.0-2.0%,Pre-seed/Seed,"React, Node.js, Real-time",Remote-first,Yes,Check YC board,High,High
+Green Dot,Sequoia,Senior SWE Firewire,$121K-$173K,0.02-0.08%,Public,"Java, Distributed",Remote US,Limited,Check Simplify,Low,Low
+Zipline,Sequoia,Sr Full Stack SWE Mapping,$170K-$210K,0.05-0.15%,Series D,"React, Python, GIS",Hybrid CA,Yes,Check Sequoia board,Low,Low (hybrid)
