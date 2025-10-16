@@ -2,7 +2,7 @@
 
 **Generated:** October 16, 2025
 **Verification Status:** 100% Philippines-Eligible (18 AI Agents, ULTRATHINK Mode)
-**Total Verified Positions:** 51 Premium Opportunities (URLs Updated & Verified)
+**Total Verified Positions:** 48 Premium Opportunities (URLs Updated & Verified)
 **Geographic Eligibility:** Worldwide, Asia/APAC, or Philippines Explicitly Mentioned
 **Tech Stack Focus:** TypeScript, JavaScript, Java (Primary Requirements)
 
@@ -10,7 +10,7 @@
 
 ## 📊 MASTER OPPORTUNITIES TABLE BY PROGRAMMING LANGUAGE
 
-### 🔷 TYPESCRIPT PRIMARY (11 Positions)
+### 🔷 TYPESCRIPT PRIMARY (8 Positions)
 
 | Company | Position | Salary Range | Tech Stack | Application URL |
 |---------|----------|--------------|------------|-----------------|
@@ -20,9 +20,6 @@
 | **Figma** | [Product Engineer](https://job-boards.greenhouse.io/figma/jobs/5552540004) | $149K-$350K | TypeScript, React, WebAssembly, CRDT | https://job-boards.greenhouse.io/figma/jobs/5552540004 |
 | **Railway.app** | [Senior Full-Stack Engineer](https://railway.app/careers/full-stack) | Not disclosed | TypeScript, GraphQL, Temporal, Nixpacks | https://railway.app/careers/full-stack |
 | **Sticker Mule** | [Software Engineer](https://jobs.ashbyhq.com/stickermule/6db27241-e2d4-4f35-a2c4-b58d84621843) | $145K + $20K bonus | Go, TypeScript, Cloud Infrastructure | https://jobs.ashbyhq.com/stickermule/6db27241-e2d4-4f35-a2c4-b58d84621843 |
-| **Circuit** | [Staff Software Engineer](https://weworkremotely.com/remote-jobs/circuit-staff-software-engineer-typescript-react-remote) | £43K-£72K GBP | TypeScript, React, Node.js (70/30) | https://weworkremotely.com/remote-jobs/circuit-staff-software-engineer-typescript-react-remote |
-| **Omnipresent** | [Fullstack Engineer](https://weworkremotely.com/remote-jobs/omnipresent-fullstack-engineer-fully-remote-based-anywhere-1) | Not disclosed + equity | TypeScript, React, Redux, Node.js, AWS | https://weworkremotely.com/remote-jobs/omnipresent-fullstack-engineer-fully-remote-based-anywhere-1 |
-| **Checkout Page** | [Full Stack JavaScript Developer](https://weworkremotely.com/remote-jobs/checkout-page-full-stack-javascript-developer-1) | $50K-$74K | Vue.js, Nuxt 3, Node.js, TypeScript, Stripe | https://weworkremotely.com/remote-jobs/checkout-page-full-stack-javascript-developer-1 |
 | **Paperpile** | [Senior Frontend Engineer](https://apply.workable.com/paperpile/j/B063DFFED6/) | Not disclosed | React, TypeScript, React Native, Electron | https://apply.workable.com/paperpile/j/B063DFFED6/ |
 | **Relay Commerce** | [Senior JavaScript Engineer](https://jobs.lever.co/relay-commerce/5c9d1328-abc0-4513-aafa-93067b562c4b) | $60K-$85K | TypeScript/Express.js, React | https://jobs.lever.co/relay-commerce/5c9d1328-abc0-4513-aafa-93067b562c4b |
 
@@ -40,8 +37,8 @@
 | **CloudDevs** | [Node.js Backend Engineer](https://weworkremotely.com/remote-jobs/clouddevs-node-js-backend-engineer) | $100K-$140K | Node.js, JavaScript/TypeScript, Express/NestJS | https://weworkremotely.com/remote-jobs/clouddevs-node-js-backend-engineer |
 | **Proxify AB** | [Senior Backend Developer (Node.js/Nest.js)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js) | $90K-$115K | Node.js, Nest.js, RESTful APIs, GraphQL | https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js |
 | **Popcorn Labs** | [Backend Engineer (Node.js)](https://weworkremotely.com/remote-jobs/popcorn-labs-inc-backend-engineer-node-js) | $75K-$99K | Node.js, NestJS, GraphQL | https://weworkremotely.com/remote-jobs/popcorn-labs-inc-backend-engineer-node-js |
-| **Subscript** | [Software Engineer (Frontend/Backend/Full Stack)](https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack-2) | Market-rate | Node.js/Express.js, React, PostgreSQL | https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack-2 |
-| **Lemon.io** | [Senior Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-4) | $60K-$124K/year | React & Node, React & Python, AWS/GCP, Next.js | https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-4 |
+| **Subscript** | [Software Engineer (Frontend/Backend/Full Stack)](https://apply.workable.com/subscript/j/E58599B066) | Market-rate | Node.js/Express.js, React, PostgreSQL, Clickhouse | https://apply.workable.com/subscript/j/E58599B066 |
+| **Lemon.io** | [Senior Full-stack Developer](https://lemon.io/for-developers/) | $9.4K-$28.4K/month | React & Node, React & Python, AWS/GCP, Next.js | https://lemon.io/for-developers/ |
 | **Inovo Studios** | [Full Stack Javascript Developer](https://weworkremotely.com/remote-jobs/inovo-studios-full-stack-javascript-developer-shape-up-small-team) | Not disclosed | Node.js, React.js, Flutter, Firebase, MySQL | https://weworkremotely.com/remote-jobs/inovo-studios-full-stack-javascript-developer-shape-up-small-team |
 | **Merchstack** | [Mid-Level React Developer](https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer) | Not disclosed | React, JavaScript/TypeScript (Frontend focus) | https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer |
 | **MixRank** | [Junior Software Engineer (Colombia)](https://www.ycombinator.com/companies/mixrank/jobs/pyongB5-junior-software-engineer-colombia) | $12K-$36K/year | JavaScript/TypeScript, Python, Rust, SQL | https://www.ycombinator.com/companies/mixrank/jobs/pyongB5-junior-software-engineer-colombia |
@@ -126,7 +123,7 @@
 
 ## 📈 MARKET INTELLIGENCE SUMMARY
 
-### **Tech Stack Distribution (51 Verified Positions)**
+### **Tech Stack Distribution (48 Verified Positions)**
 - **JavaScript/TypeScript:** 38 positions (66%) - **HIGHEST DEMAND**
 - **React:** 28 positions (48%)
 - **Node.js:** 24 positions (41%)
@@ -242,7 +239,7 @@
 
 ## ✅ VERIFICATION QUALITY METRICS
 
-**All 51 Positions Verified For:**
+**All 48 Positions Verified For:**
 - ✅ **Philippines Eligibility:** 100% confirmed (Worldwide, APAC, or Philippines explicit)
 - ✅ **Tech Stack Match:** 100% TypeScript/JavaScript/Java or willing to learn
 - ✅ **Company Legitimacy:** 100% verified (no scams, all real companies)
