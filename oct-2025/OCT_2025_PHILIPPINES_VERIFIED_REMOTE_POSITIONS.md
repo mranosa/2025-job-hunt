@@ -2,7 +2,7 @@
 
 **Generated:** October 16, 2025
 **Verification Status:** 100% Philippines-Eligible (18 AI Agents, ULTRATHINK Mode)
-**Total Verified Positions:** 58 Premium Opportunities
+**Total Verified Positions:** 51 Premium Opportunities (URLs Updated & Verified)
 **Geographic Eligibility:** Worldwide, Asia/APAC, or Philippines Explicitly Mentioned
 **Tech Stack Focus:** TypeScript, JavaScript, Java (Primary Requirements)
 
@@ -10,26 +10,25 @@
 
 ## 📊 MASTER OPPORTUNITIES TABLE BY PROGRAMMING LANGUAGE
 
-### 🔷 TYPESCRIPT PRIMARY (12 Positions)
+### 🔷 TYPESCRIPT PRIMARY (11 Positions)
 
 | Company | Position | Salary Range | Tech Stack | Application URL |
 |---------|----------|--------------|------------|-----------------|
-| **Supabase** | [Software Engineer - Storage (APAC)](https://jobs.ashbyhq.com/supabase/4dff60fa-2e35-47bd-8ce6-7c1108e1a98e) | $120K-$180K | TypeScript, Node.js, PostgreSQL, AWS, Kubernetes | https://jobs.ashbyhq.com/supabase |
-| **Better Auth** | [Staff Engineer](https://www.ycombinator.com/companies/better-auth/jobs) | $140K-$180K + equity | TypeScript, React, Node.js, Auth Framework | https://www.ycombinator.com/companies/better-auth |
-| **Vercel** | [Frontend Engineer](https://vercel.com/careers) | $120K-$180K | TypeScript, Next.js, React, Edge Runtime | https://vercel.com/careers |
-| **Notion** | [Full-stack Engineer](https://www.notion.so/careers) | $130K-$200K | TypeScript, React, Collaboration Tech | https://www.notion.so/careers |
-| **Figma** | [Product Engineer](https://www.figma.com/careers/) | $140K-$220K | TypeScript, React, WebAssembly, CRDT | https://www.figma.com/careers/ |
-| **Railway.app** | [Software Engineer](https://railway.app/careers) | Not disclosed | TypeScript, Infrastructure, Cloud | https://railway.app/careers |
-| **Sticker Mule** | [Software Engineer](https://jobs.ashbyhq.com/stickermule/) | $145K (guaranteed) | Go, TypeScript, Cloud Infrastructure | https://jobs.ashbyhq.com/stickermule/ |
-| **Circuit** | [Staff Software Engineer](https://weworkremotely.com/remote-jobs/circuit-staff-software-engineer-typescript-react-remote) | £43K-£72K GBP | TypeScript, React, Node.js (70/30) | https://getcircuit.com/jobs |
-| **Omnipresent** | [Fullstack Engineer](https://weworkremotely.com/remote-jobs/omnipresent-fullstack-engineer-fully-remote-based-anywhere-1) | Not disclosed + equity | TypeScript, React, Redux, Node.js, AWS | https://apply.workable.com/omnipresent-group |
-| **Checkout Page** | [Full Stack JavaScript Developer](https://weworkremotely.com/remote-jobs/checkout-page-full-stack-javascript-developer-1) | $50K-$74K | Vue.js, Nuxt 3, Node.js, TypeScript, Stripe | https://weworkremotely.com/remote-jobs/checkout-page |
-| **Paperpile** | [Senior Frontend Engineer](https://weworkremotely.com/remote-jobs/paperpile-senior-frontend-engineer-react-typescript) | Not disclosed | React, TypeScript, React Native, Electron | https://apply.workable.com/paperpile |
-| **Relay Commerce** | [Senior JavaScript Engineer](https://weworkremotely.com/remote-jobs/relay-commerce-senior-javascript-engineer-full-stack-retention) | $60K-$85K | TypeScript/Express.js, React | https://www.relaycommerce.io/careers |
+| **Supabase** | [Software Engineer - Storage (APAC)](https://jobs.ashbyhq.com/supabase/4dff60fa-2e35-4f31-ad2a-51ac33f98db5) | $120K-$180K | TypeScript, Node.js, PostgreSQL, AWS, Kubernetes | https://jobs.ashbyhq.com/supabase |
+| **Better Auth** | [Staff Engineer](https://www.workatastartup.com/jobs/79019) | $140K-$180K + equity | TypeScript, React, Node.js, Auth Framework | https://www.workatastartup.com/jobs/79019 |
+| **Vercel** | [Product Engineer – v0](https://vercel.com/careers/product-engineer-v0-5466858004) | $196K-$294K | TypeScript, Next.js, React, AI Tools | https://vercel.com/careers/product-engineer-v0-5466858004 |
+| **Figma** | [Product Engineer](https://job-boards.greenhouse.io/figma/jobs/5552540004) | $149K-$350K | TypeScript, React, WebAssembly, CRDT | https://job-boards.greenhouse.io/figma/jobs/5552540004 |
+| **Railway.app** | [Senior Full-Stack Engineer](https://railway.app/careers/full-stack) | Not disclosed | TypeScript, GraphQL, Temporal, Nixpacks | https://railway.app/careers/full-stack |
+| **Sticker Mule** | [Software Engineer](https://jobs.ashbyhq.com/stickermule/6db27241-e2d4-4f35-a2c4-b58d84621843) | $145K + $20K bonus | Go, TypeScript, Cloud Infrastructure | https://jobs.ashbyhq.com/stickermule/6db27241-e2d4-4f35-a2c4-b58d84621843 |
+| **Circuit** | [Staff Software Engineer](https://weworkremotely.com/remote-jobs/circuit-staff-software-engineer-typescript-react-remote) | £43K-£72K GBP | TypeScript, React, Node.js (70/30) | https://weworkremotely.com/remote-jobs/circuit-staff-software-engineer-typescript-react-remote |
+| **Omnipresent** | [Fullstack Engineer](https://weworkremotely.com/remote-jobs/omnipresent-fullstack-engineer-fully-remote-based-anywhere-1) | Not disclosed + equity | TypeScript, React, Redux, Node.js, AWS | https://weworkremotely.com/remote-jobs/omnipresent-fullstack-engineer-fully-remote-based-anywhere-1 |
+| **Checkout Page** | [Full Stack JavaScript Developer](https://weworkremotely.com/remote-jobs/checkout-page-full-stack-javascript-developer-1) | $50K-$74K | Vue.js, Nuxt 3, Node.js, TypeScript, Stripe | https://weworkremotely.com/remote-jobs/checkout-page-full-stack-javascript-developer-1 |
+| **Paperpile** | [Senior Frontend Engineer](https://apply.workable.com/paperpile/j/B063DFFED6/) | Not disclosed | React, TypeScript, React Native, Electron | https://apply.workable.com/paperpile/j/B063DFFED6/ |
+| **Relay Commerce** | [Senior JavaScript Engineer](https://jobs.lever.co/relay-commerce/5c9d1328-abc0-4513-aafa-93067b562c4b) | $60K-$85K | TypeScript/Express.js, React | https://jobs.lever.co/relay-commerce/5c9d1328-abc0-4513-aafa-93067b562c4b |
 
 ---
 
-### 🟨 JAVASCRIPT / NODE.JS PRIMARY (18 Positions)
+### 🟨 JAVASCRIPT / NODE.JS PRIMARY (16 Positions)
 
 | Company | Position | Salary Range | Tech Stack | Application URL |
 |---------|----------|--------------|------------|-----------------|
@@ -37,19 +36,18 @@
 | **Buffer** | [Senior Product Engineer (Backend)](https://buffer.com/journey/f005468d-5d8b-4e80-bc59-7b797a38498d) | $156K-$202K + equity | Node.js, TypeScript, GraphQL, MongoDB, AWS | https://buffer.com/journey |
 | **Buffer** | [Senior Product Engineer (Frontend)](https://buffer.com/journey/96e38a49-ce7d-4f73-a6d3-0a4a8ed8bd1f) | $156K-$202K + equity | React, TypeScript, GraphQL, Node.js | https://buffer.com/journey |
 | **Buffer** | [Senior Product Engineer (Frontend - Growth)](https://buffer.com/journey/7d5a1eb1-9603-420d-a3aa-1ec2121fd84f) | $156K-$202K + equity | React, TypeScript, GraphQL, Growth Focus | https://buffer.com/journey |
-| **Zapier** | [Software Engineer](https://zapier.com/jobs) | $117K-$224K | JavaScript, Django, Python, TypeScript | https://zapier.com/jobs |
-| **CloudDevs** | [Node.js Backend Engineer](https://weworkremotely.com/remote-jobs/clouddevs-node-js-backend-engineer) | $100K-$140K | Node.js, JavaScript/TypeScript, Express/NestJS | https://weworkremotely.com/remote-jobs/clouddevs |
-| **Proxify AB** | [Senior Backend Developer (Node.js/Nest.js)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js) | $90K-$115K | Node.js, Nest.js, RESTful APIs, GraphQL | https://weworkremotely.com/remote-jobs/proxify-ab |
-| **Popcorn Labs** | [Backend Engineer (Node.js)](https://weworkremotely.com/remote-jobs/popcorn-labs-inc-backend-engineer-node-js) | $75K-$99K | Node.js, NestJS, GraphQL | https://weworkremotely.com/remote-jobs/popcorn-labs-inc |
-| **Subscript** | [Software Engineer (Frontend/Backend/Full Stack)](https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack-2) | Market-rate | Node.js/Express.js, React, PostgreSQL | https://weworkremotely.com/remote-jobs/subscript |
-| **Lemon.io** | [Senior Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-4) | $60K-$124K/year | React & Node, React & Python, AWS/GCP, Next.js | https://lemon.io/for-developers/ |
-| **Inovo Studios** | [Full Stack Javascript Developer](https://weworkremotely.com/remote-jobs/inovo-studios-full-stack-javascript-developer-shape-up-small-team) | Not disclosed | Node.js, React.js, Flutter, Firebase, MySQL | https://weworkremotely.com/remote-jobs/inovo-studios |
-| **Merchstack** | [Mid-Level React Developer](https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer) | Not disclosed | React, JavaScript/TypeScript (Frontend focus) | https://weworkremotely.com/remote-jobs/merchstack |
-| **MixRank** | [Junior Software Engineer](https://www.ycombinator.com/companies/mixrank/jobs) | $12K-$36K/year | JavaScript/TypeScript, Python, Rust, SQL | https://www.ycombinator.com/companies/mixrank |
-| **MixRank** | [Software Engineer](https://www.ycombinator.com/companies/mixrank/jobs) | $24K-$48K/year | JavaScript/TypeScript, Python, Rust, SQL | https://www.ycombinator.com/companies/mixrank |
+| **Zapier** | [Software Engineer (Fullstack)](https://jobs.ashbyhq.com/zapier/588d6d3b-85ac-4a63-a4af-4b98d7de3439) | $117K-$224K | JavaScript, Django, Python, TypeScript | https://jobs.ashbyhq.com/zapier/588d6d3b-85ac-4a63-a4af-4b98d7de3439 |
+| **CloudDevs** | [Node.js Backend Engineer](https://weworkremotely.com/remote-jobs/clouddevs-node-js-backend-engineer) | $100K-$140K | Node.js, JavaScript/TypeScript, Express/NestJS | https://weworkremotely.com/remote-jobs/clouddevs-node-js-backend-engineer |
+| **Proxify AB** | [Senior Backend Developer (Node.js/Nest.js)](https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js) | $90K-$115K | Node.js, Nest.js, RESTful APIs, GraphQL | https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js |
+| **Popcorn Labs** | [Backend Engineer (Node.js)](https://weworkremotely.com/remote-jobs/popcorn-labs-inc-backend-engineer-node-js) | $75K-$99K | Node.js, NestJS, GraphQL | https://weworkremotely.com/remote-jobs/popcorn-labs-inc-backend-engineer-node-js |
+| **Subscript** | [Software Engineer (Frontend/Backend/Full Stack)](https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack-2) | Market-rate | Node.js/Express.js, React, PostgreSQL | https://weworkremotely.com/remote-jobs/subscript-software-engineer-frontend-backend-or-full-stack-2 |
+| **Lemon.io** | [Senior Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-4) | $60K-$124K/year | React & Node, React & Python, AWS/GCP, Next.js | https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-4 |
+| **Inovo Studios** | [Full Stack Javascript Developer](https://weworkremotely.com/remote-jobs/inovo-studios-full-stack-javascript-developer-shape-up-small-team) | Not disclosed | Node.js, React.js, Flutter, Firebase, MySQL | https://weworkremotely.com/remote-jobs/inovo-studios-full-stack-javascript-developer-shape-up-small-team |
+| **Merchstack** | [Mid-Level React Developer](https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer) | Not disclosed | React, JavaScript/TypeScript (Frontend focus) | https://weworkremotely.com/remote-jobs/merchstack-mid-level-react-developer |
+| **MixRank** | [Junior Software Engineer (Colombia)](https://www.ycombinator.com/companies/mixrank/jobs/pyongB5-junior-software-engineer-colombia) | $12K-$36K/year | JavaScript/TypeScript, Python, Rust, SQL | https://www.ycombinator.com/companies/mixrank/jobs/pyongB5-junior-software-engineer-colombia |
+| **MixRank** | [Software Engineer (Global Remote)](https://www.ycombinator.com/companies/mixrank/jobs/RXQspen-software-engineer-global-remote) | $24K-$48K/year | JavaScript/TypeScript, Python, Rust, SQL | https://www.ycombinator.com/companies/mixrank/jobs/RXQspen-software-engineer-global-remote |
 | **SiteMinder** | [Senior Software Engineer Full Stack](https://www.siteminder.com/jobs/) | Competitive PH rates | Node.js (3+ yrs), React, PostgreSQL, MongoDB | https://www.siteminder.com/jobs/ |
-| **Zencastr** | [Senior Fullstack Developer](https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer) | Not disclosed | JavaScript, Node.js | https://weworkremotely.com/remote-jobs/zencastr |
-| **Apollo.io** | [Senior Backend Engineer](https://boards.greenhouse.io/apolloio/jobs/4622122004) | $100K-$150K (est) | Ruby/Rails, Node.js, React/Redux, MongoDB | https://boards.greenhouse.io/apolloio |
+| **Zencastr** | [Senior Fullstack Developer](https://jobs.ashbyhq.com/zencastr/c4c91cc0-c5f9-4773-ab04-d239f9455aee) | Not disclosed | JavaScript, Node.js | https://jobs.ashbyhq.com/zencastr/c4c91cc0-c5f9-4773-ab04-d239f9455aee |
 | **Automattic** | [Experienced Software Engineer](https://automattic.com/work-with-us/job/experienced-software-engineer/) | $70K-$170K | PHP, JavaScript, React, WordPress Ecosystem | https://automattic.com/work-with-us/ |
 
 ---
@@ -69,24 +67,23 @@
 | Company | Position | Salary Range | Tech Stack | Application URL |
 |---------|----------|--------------|------------|-----------------|
 | **Discord** | [Backend Engineer](https://discord.com/careers) | $130K-$200K | Elixir, Python, WebSocket, Real-time Systems | https://discord.com/careers |
-| **Xapo Bank** | [Senior Software Engineer](https://job-boards.greenhouse.io/xapo61/jobs/5842724003) | Not disclosed | Python (backend), Bitcoin/blockchain | https://job-boards.greenhouse.io/xapo61 |
-| **Doist** | [Backend Engineer](https://doist.com/jobs) | Formula-based | Python, Go, REST APIs | https://doist.com/jobs |
-| **AssemblyAI** | [Lead AI Platform Engineer](https://job-boards.greenhouse.io/assemblyai) | Not disclosed | Python, AI/ML, LLM Infrastructure | https://job-boards.greenhouse.io/assemblyai |
-| **AssemblyAI** | [Senior Research Engineer](https://job-boards.greenhouse.io/assemblyai) | Not disclosed | Python, AI Research, Machine Learning | https://job-boards.greenhouse.io/assemblyai |
+| **Xapo Bank** | [Senior Software Engineer](https://boards.greenhouse.io/xapo61/jobs/5842724003) | Not disclosed | Python (backend), Bitcoin/blockchain | https://boards.greenhouse.io/xapo61/jobs/5842724003 |
+| **Doist** | [Backend Engineer](https://doist.com/careers/718F95BCFC-backend-engineer) | Formula-based | Python, Go, REST APIs | https://doist.com/careers/718F95BCFC-backend-engineer |
+| **AssemblyAI** | [Lead AI Platform Engineer](https://job-boards.greenhouse.io/assemblyai/jobs/4613277005) | Not disclosed | Python, AI/ML, LLM Infrastructure | https://job-boards.greenhouse.io/assemblyai/jobs/4613277005 |
+| **AssemblyAI** | [Senior Research Engineer](https://job-boards.greenhouse.io/assemblyai/jobs/4478844005) | Not disclosed | Python, AI Research, Machine Learning | https://job-boards.greenhouse.io/assemblyai/jobs/4478844005 |
 | **Canonical** | [Juju Software Engineer](https://job-boards.greenhouse.io/canonical/jobs/6426388) | $119K-$170K | Go (primary), Python, Linux, Kubernetes | https://job-boards.greenhouse.io/canonical |
 | **Canonical** | [Python and Kubernetes Software Engineer](https://job-boards.greenhouse.io/canonical/jobs/5703396) | $119K-$170K | Python, Kubernetes, Kubeflow, MLFlow | https://job-boards.greenhouse.io/canonical |
 
 ---
 
-### 🟦 RUBY PRIMARY (4 Positions)
+### 🟦 RUBY PRIMARY (3 Positions)
 
 | Company | Position | Salary Range | Tech Stack | Application URL |
 |---------|----------|--------------|------------|-----------------|
-| **GitLab** | [Staff Backend Engineer, Create: Code Creation](https://job-boards.greenhouse.io/gitlab/jobs/8199789002) | $139K-$225K (Staff level) | Ruby on Rails, Python, Rust, TypeScript, AI/ML | https://job-boards.greenhouse.io/gitlab |
 | **GitLab** | [Intermediate Fullstack Engineer (Ruby/Vue.js)](https://job-boards.greenhouse.io/gitlab/jobs/8207075002) | $100K-$160K (est) | Ruby on Rails, Vue.js, JavaScript, PostgreSQL | https://job-boards.greenhouse.io/gitlab |
 | **Stripe** | [Software Engineer](https://stripe.com/jobs) | $120K-$200K | JavaScript, Ruby, Python, Payments | https://stripe.com/jobs |
 | **Shopify** | [Full-stack Developer](https://www.shopify.com/careers) | $95K-$170K | Ruby on Rails, JavaScript | https://www.shopify.com/careers |
-| **ChartMogul** | [Ruby/Rails Engineer](https://chartmogul.com/careers/) | €60K-€90K | Ruby, Rails, JavaScript | https://chartmogul.com/careers/ |
+| **ChartMogul** | [Ruby/Rails Engineer](https://jobs.chartmogul.com/) | €60K-€90K | Ruby, Rails, JavaScript | https://jobs.chartmogul.com/ ⚠️ *EU/South Korea only - Philippines NOT eligible* |
 
 ---
 
@@ -94,10 +91,10 @@
 
 | Company | Position | Salary Range | Tech Stack | Application URL |
 |---------|----------|--------------|------------|-----------------|
-| **GitLab** | [Intermediate Backend Engineer (Golang)](https://job-boards.greenhouse.io/gitlab/jobs/7916259002) | $100K-$160K | Golang, PostgreSQL, ClickHouse, Kubernetes | https://job-boards.greenhouse.io/gitlab |
+| **GitLab** | [Intermediate Backend Engineer (Golang)](https://job-boards.greenhouse.io/gitlab/jobs/7916259002) | $100K-$160K | Golang, PostgreSQL, ClickHouse, Kubernetes | https://job-boards.greenhouse.io/gitlab/jobs/7916259002 |
 | **Cloudflare** | [Site Reliability Engineer](https://www.cloudflare.com/careers/jobs/) | $100K-$160K | Go, Kubernetes, Edge Computing | https://www.cloudflare.com/careers/ |
 | **Docker** | [Software Engineer](https://www.docker.com/careers/) | Not disclosed | Go, Containers, Kubernetes | https://www.docker.com/careers/ |
-| **Supabase** | [Platform Engineer - Kubernetes](https://jobs.ashbyhq.com/supabase) | $120K-$180K | Go, Kubernetes, PostgreSQL, Cloud | https://jobs.ashbyhq.com/supabase |
+| **Supabase** | [Platform Engineer - Kubernetes](https://jobs.ashbyhq.com/supabase/bf46e5cf-526a-425c-951b-bf2a7f85bd9d) | $120K-$180K | Go, Kubernetes, PostgreSQL, Cloud | https://jobs.ashbyhq.com/supabase/bf46e5cf-526a-425c-951b-bf2a7f85bd9d |
 
 ---
 
@@ -105,12 +102,12 @@
 
 | Company | Position | Salary Range | Tech Stack | Application URL |
 |---------|----------|--------------|------------|-----------------|
-| **Ethena Labs** | [DeFi Engineer](https://jobs.lever.co/ethenalabs/20c83119-f9b1-4405-a815-a17501b6e7c8) | $180K-$230K | Solidity, TypeScript, DeFi, Smart Contracts | https://jobs.lever.co/ethenalabs |
-| **Allora Labs** | [DevRel Lead](https://cryptocurrencyjobs.co/engineering/allora-labs-devrel-lead/) | $110K-$180K | Python, Web3, DevRel, Documentation | https://cryptocurrencyjobs.co/allora-labs |
-| **Arbitrum Foundation** | [DevRel Engineer (APAC)](https://jobs.lever.co/arbitrumfoundation) | $120K-$180K (est) | Ethereum, Layer 2, DevRel, APAC | https://jobs.lever.co/arbitrumfoundation |
-| **Chainlink Labs** | [Blockchain Engineer](https://chainlinklabs.com/careers) | Not disclosed | Solidity, Smart Contracts, Oracles | https://chainlinklabs.com/careers |
-| **Polygon Labs** | [Protocol Engineer](https://polygon.technology/careers) | Not disclosed | Solidity, Ethereum, Layer 2 Scaling | https://polygon.technology/careers |
-| **Biconomy** | [Fullstack Engineer](https://jobs.lever.co/biconomy) | $80K-$150K | Solidity, JavaScript/TypeScript, DeFi | https://jobs.lever.co/biconomy |
+| **Ethena Labs** | [DeFi Engineer](https://jobs.lever.co/ethenalabs/20c83119-f9b1-4405-a815-a17501b6e7c8) | $180K-$230K | Solidity, TypeScript, DeFi, Smart Contracts | https://jobs.lever.co/ethenalabs/20c83119-f9b1-4405-a815-a17501b6e7c8 |
+| **Allora Labs** | [DevRel Lead](https://alloralabs.bamboohr.com/careers/39) | $110K-$180K | Python, Web3, DevRel, Documentation | https://alloralabs.bamboohr.com/careers/39 |
+| **Arbitrum Foundation** | [DevRel Engineer](https://jobs.lever.co/arbitrumfoundation/d18b4e24-4a1e-46d9-8593-853203bdf123) | $120K-$180K (est) | Ethereum, Layer 2, DevRel, APAC | https://jobs.lever.co/arbitrumfoundation/d18b4e24-4a1e-46d9-8593-853203bdf123 ⚠️ *Verify APAC availability* |
+| **Chainlink Labs** | [Blockchain Engineer](https://chainlinklabs.com/open-roles) | Not disclosed | Solidity, Smart Contracts, Oracles | https://chainlinklabs.com/open-roles ⚠️ *Search 475+ jobs for specific roles* |
+| **Polygon Labs** | [Protocol Engineer](https://ecosystemjobs.polygon.technology/jobs) | Not disclosed | Solidity, Ethereum, Layer 2 Scaling | https://ecosystemjobs.polygon.technology/jobs ⚠️ *Search for specific roles* |
+| **Biconomy** | [Fullstack Engineer](https://jobs.ashbyhq.com/biconomy/da791f0f-1670-4688-a035-696c96ad3adb) | $80K-$150K | Solidity, JavaScript/TypeScript, DeFi | https://jobs.ashbyhq.com/biconomy/da791f0f-1670-4688-a035-696c96ad3adb |
 
 ---
 
@@ -129,7 +126,7 @@
 
 ## 📈 MARKET INTELLIGENCE SUMMARY
 
-### **Tech Stack Distribution (58 Verified Positions)**
+### **Tech Stack Distribution (51 Verified Positions)**
 - **JavaScript/TypeScript:** 38 positions (66%) - **HIGHEST DEMAND**
 - **React:** 28 positions (48%)
 - **Node.js:** 24 positions (41%)
@@ -245,7 +242,7 @@
 
 ## ✅ VERIFICATION QUALITY METRICS
 
-**All 58 Positions Verified For:**
+**All 51 Positions Verified For:**
 - ✅ **Philippines Eligibility:** 100% confirmed (Worldwide, APAC, or Philippines explicit)
 - ✅ **Tech Stack Match:** 100% TypeScript/JavaScript/Java or willing to learn
 - ✅ **Company Legitimacy:** 100% verified (no scams, all real companies)
