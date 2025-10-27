@@ -6,6 +6,7 @@ logs/
 # Sessions and temporary files
 sessions/
 .sessions/
+.playwright-mcp/
 
 # System files
 .DS_Store
